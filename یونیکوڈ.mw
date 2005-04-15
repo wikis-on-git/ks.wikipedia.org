@@ -45,8 +45,7 @@ Two more planes are used for "graphic" characters. Plane 1, the Supplementary Mu
 
 There is much controversy among CJK specialists, particularly Japanese ones, about the desirability and technical merit of the "Han unification" process used to map multiple Chinese and Japanese character sets into a single set of unified glyphs. (See Chinese character encoding)
 
-The cap of ~220 code points exists in order to maintain compatibility with the UTF-16 encoding, which can only address that range (see below). There is only ten percent current utilization of the Unicode code space. Furthermore, ranges of characters have been tentatively blocked out for every known unencoded script (see [1] (http://www.unicode.org/roadmaps/)), and while Unicode may need another plane for ideographic characters, there are ten planes that could only be needed if previously unknown scripts with tens of thousands of characters are discovered. Short of discovery of a interstellar community, this ~20 bit limit is unlikely to be reached in the near future.
-
+The cap of ~220 code points exists in order to maintain compatibility with the UTF-16 encoding, which can only address that range (see below). There is only ten percent current utilization of the Unicode code space. Furthermore, ranges of characters have been tentatively blocked out for every known unencoded script (see [1] (http://www.unicode.org/roadmaps/)), and while Unicode may need another plane for ideographic characters, there are ten planes that could only be needed if previously unknown scripts with tens of thousands of characters are discovered. Short of the discovery of an interstellar community, this ~20 bit limit is unlikely to be reached in the near future.
 
 == तैयार बनाम रल॒-मिल॒ हर्फ ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br>
