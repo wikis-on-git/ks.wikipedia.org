@@ -39,9 +39,9 @@ The mapping methods are called the UTF (Unicode Transformation Format), and amon
 
 == साज़॒ सामान ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br>
-Unicode reserves 1114112 (= 220+216) code points, and currently assigns characters to more than 96000 of those code points. The first 256 codes precisely match those of ISO 8859-1, the most popular 8-bit character encoding in the "Western world"; as a result, the first 128 characters are also identical to ASCII.
+Unicode reserves 1114112 (= 2<super>20</super>+2<super>16</super>) code points, and currently assigns characters to more than 96000 of those code points. The first 256 codes precisely match those of ISO 8859-1, the most popular 8-bit character encoding in the "Western world"; as a result, the first 128 characters are also identical to ASCII.
 
-The Unicode code space for characters is divided into 17 "planes" and each plane has 65536 (= 216) code points. The first plane (plane 0), the Basic Multilingual Plane (BMP), is where most characters have been assigned, so far. The BMP contains characters for almost all modern languages, and a large number of special characters. Most of the allocated code points in the BMP are used to encode CJK characters.
+The Unicode code space for characters is divided into 17 "planes" and each plane has 65536 (= 2<super>16</super>) code points. The first plane (plane 0), the Basic Multilingual Plane (BMP), is where most characters have been assigned, so far. The BMP contains characters for almost all modern languages, and a large number of special characters. Most of the allocated code points in the BMP are used to encode CJK characters.
 
 Two more planes are used for "graphic" characters. Plane 1, the Supplementary Multilingual Plane (SMP) is mostly used for historic scripts such as Linear B, but is also used for musical and mathematical symbols. Plane 2, the Supplementary Ideographic Plane (SIP) is used for about 40000 rare Chinese characters that are mostly historic, although there are some modern ones. Plane 14 currently contains some non-recommended language tag characters and some variation selection characters. Plane 15 and Plane 16 are open for any private use.
 
