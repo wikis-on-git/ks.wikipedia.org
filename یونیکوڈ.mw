@@ -130,7 +130,7 @@ External links
 * [http://www.alanwood.net/unicode/ Alan Wood's Unicode Resources] Contains lists of word processors with Unicode capability; fonts and characters are grouped by type; characters are presented in lists, not grids.
 *[http://www.hastingsresearch.com/net/04-unicode-limitations.shtml A strong denunciation of Unicode], and a [http://slashdot.org/features/01/06/06/0132203.shtml response to it] (''n.b.'': This article is dated 2001, and much has changed regarding Unicode since that time)
 *[[Software engineering]]:
-** [http://icu.sourceforge.net/ International Components for Unicode (ICU)] An open source set of libraries that provide robust and full-featured Unicode services for your applications on a wide variety of platforms.
+** [http://www.icu-project.org/ International Components for Unicode (ICU)] An open source set of libraries that provide robust and full-featured Unicode services for your applications on a wide variety of platforms.
 ** [http://www.joelonsoftware.com/articles/Unicode.html The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)] by [[Joel Spolsky]] of JoelonSoftware.com (this is now outdated, but still a reasonable starting point).
 ** [http://freedesktop.org/wiki/Software_2futf_2d8 Freedesktop.Org's Project UTF-8]'s purpose is to document and promote proper Unicode support in free and Open Source software.
 ** [http://java.sun.com/developer/technicalArticles/Intl/Supplementary/ Supplementary Characters in the Java Platform] from [[Sun Microsystems]]
