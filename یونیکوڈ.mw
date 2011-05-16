@@ -13,102 +13,32 @@
 
 == मस॒ल॒ ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br />
-[edit]
-Issues
-A number of issues arise in Unicode. Some people from East-Asian countries tend to oppose Unicode in general, noting technical limitations [2] (http://www.hastingsresearch.com/net/04-unicode-limitations.shtml) (also see the response, [3] (http://slashdot.org/features/01/06/06/0132203.shtml)) and political problems in process. Unicode is also criticized for failing to allow for older and alternate forms of kanji, this complicates the processing of ancient Japanese and uncommon Japanese names. In fact, there are several attempts to create an alternative to Unicode in those countries. [4] (http://www-106.ibm.com/developerworks/unicode/library/u-secret.html) Among them are TRON (Although it is not widely adopted in Japan, some, particularly those who need to handle historical Japanese text, favor this), UTF-2000 and Giga Character Set (GCS).
-
-Some note that one of the reasons for the complaints perhaps stems from the fact that the consortium was initially organized mostly by the US manufacturers like Microsoft. Among the most controversial is Han unification, where one Chinese character was adopted into Japanese or Korean and there changed slightly, which Unicode is treating as one character in multiple font styles.
-
-Thai language support has been criticized for its illogical ordering of Thai characters. This complication is due to Unicode inheriting the Thai Industrial Standard, which worked in the same way. This ordering problem complicates the Unicode collation process. [5] (http://www-106.ibm.com/developerworks/unicode/library/u-secret.html)
-
-
-
-
 == ऎनकोडिंग ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br />
 [edit]
-Encodings
-So far, it was only said that Unicode is a means to assign a unique number for all characters used by humans in written language. How these numbers are stored in text processing is another matter; problems result from the fact that much software in the west has so far been written to deal with 8-bit character encodings only, and Unicode support has only been added slowly in recent years.
-
-The internal logic of much 8-bit legacy software typically permits only 8 bits for each character, making it impossible to use more than 256 code points without special processing. Several mechanisms have therefore been suggested to implement Unicode; which one is chosen depends on available storage space, source code compatibility, and interoperability with other systems.
-
-The mapping methods are called the UTF (Unicode Transformation Format), and among them are UTF-32, UTF-16, UTF-8 and UTF-7.
-
 
 == साज़॒ सामान ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br />
-Unicode reserves 1114112 (= 2<super>20</super>+2<super>16</super>) code points, and currently assigns characters to more than 96000 of those code points. The first 256 codes precisely match those of ISO 8859-1, the most popular 8-bit character encoding in the "Western world"; as a result, the first 128 characters are also identical to ASCII.
-
-The Unicode code space for characters is divided into 17 "planes" and each plane has 65536 (= 2<super>16</super>) code points. The first plane (plane 0), the Basic Multilingual Plane (BMP), is where most characters have been assigned, so far. The BMP contains characters for almost all modern languages, and a large number of special characters. Most of the allocated code points in the BMP are used to encode CJK characters.
-
-Two more planes are used for "graphic" characters. Plane 1, the Supplementary Multilingual Plane (SMP) is mostly used for historic scripts such as Linear B, but is also used for musical and mathematical symbols. Plane 2, the Supplementary Ideographic Plane (SIP) is used for about 40000 rare Chinese characters that are mostly historic, although there are some modern ones. Plane 14 currently contains some non-recommended language tag characters and some variation selection characters. Plane 15 and Plane 16 are open for any private use.
-
-There is much controversy among CJK specialists, particularly Japanese ones, about the desirability and technical merit of the "Han unification" process used to map multiple Chinese and Japanese character sets into a single set of unified glyphs. (See Chinese character encoding)
-
-The cap of ~220 code points exists in order to maintain compatibility with the UTF-16 encoding, which can only address that range (see below). There is only ten percent current utilization of the Unicode code space. Furthermore, ranges of characters have been tentatively blocked out for every known unencoded script (see [1] (http://www.unicode.org/roadmaps/)), and while Unicode may need another plane for ideographic characters, there are ten planes that could only be needed if previously unknown scripts with tens of thousands of characters are discovered. Short of the discovery of an interstellar community, this ~20 bit limit is unlikely to be reached in the near future.
 
 == तैयार बनाम रल॒-मिल॒ हर्फ ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br />
-Ready-made vs. composite characters
-Unicode includes a mechanism for modifying character shape and so greatly extending the supported glyph repertoire. This is the use of combining diacritical marks. They are inserted after the main character (it is possible to stack several combining diacritics over the same character). However, for reasons of compatibility, Unicode also includes a large quantity of precomposed characters. So in many cases there are many ways of encoding the same character. To deal with this, Unicode provides the mechanism of canonical equivalence.
-
-The similar situation is with Hangul. Unicode provides the mechanism for composing Hangul syllables with Hangul Jamo. However, the precomposed Hangul syllables (about 20,000 of them) are also provided.
-
-The CJK ideographs currently are encoded only in their precomposed form. Still most of those ideographs are evidently made up of simpler elements, so in principle it would be possible to decompose them just as it is done with Hangul. This would greatly reduce the number of required codepoints, while allowing to display virtually every conceivable ideograph (and so doing away with all problems of the Han unification). A similar idea is used for some input methods, such as Cangjie and Wubi. However, attempts to do this for character encoding have stumbled over the fact that ideographs are not as simply decomposed or as regular as they seem.
-
-Combining marks, like the complex script shaping required to properly render Arabic text and many other scripts, are usually dependent on complex font technologies, like OpenType (by Adobe and Microsoft), Graphite (by SIL International, and AAT, by Apple, by which a font designer includes instructions in a font telling software how to properly output different character sequences. Another method sometimes employed in fixed-width fonts is to place the combining mark's glyph before its own left sidebearing; this method, however, only works for some diacritics and stacking will not occur properly.
-
-As of 2004, most software still cannot reliably handle many features not supported by older font formats, so combining characters generally will not work correctly. Hypothetically, ḗ (precomposed e with macron and acute above) and ḗ (e followed by the combining macron above and combining acute above) are identical in appearance, both giving an e with macron and acute accent, but appearance can vary greatly across software applications.
 
 == यूनिकोड त॒ ई-मेल ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br />
-[edit]
-Unicode and e-mail
-MIME defines two different mechanisms for encoding non-ASCII characters in e-mail, depending on whether the characters are in e-mail headers such as the "Subject:" or in the text body of the message. In both cases, the original character set is identified as well as a transfer encoding. For e-mail transmission of Unicode the UTF-8 character set and the Base64 transfer encoding are recommended. The details of the two different mechanisms are specified in the MIME standards and are generally hidden from users of e-mail software.
-
-The adoptation of Unicode in e-mail has been very slow. Most East-Asian text is still encoded in a local encoding such as Shift-JIS, and many commonly used e-mail programs still cannot handle Unicode data correctly.
 
 == बॆयि केंह कथ॒ ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br />
-[edit]
-Miscellaneous
-The Unicode standard also includes a number of related items, such as character properties, text normalisation forms, and bidirectional display order (for the correct display of text containing both right-to-left scripts, such as Arabic or Hebrew, and left-to-right scripts).
-
-In 1997 a proposal was made by Michael Everson to encode the characters of the Klingon language in Plane 1 of ISO/IEC 10646-2. The proposal was rejected in 2001 as "inappropriate for encoding" — not because the proposal was technically faulty, but because users of Klingon normally read and write and exchange data in Latin transliteration. The elvish scripts Tengwar and Cirth from J. R. R. Tolkien's Middle-earth setting were proposed for inclusion in Plane 1 in 1993. The draft was repealed to incorporate changes suggested by Tolkienists, and is as of 2004 still under consideration.
 
 
 == वॆबस पॆठ यूनिकोड ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br />
 
 
-[edit]
-Unicode on the web
-Recent web browsers display web pages using Unicode if an appropriate font is installed (see Unicode and HTML).
-
-Although syntax rules may affect the order in which characters are allowed to appear, both HTML 4.0 and XML 1.0 documents are, by definition, comprised of characters from the entire range of Unicode code points, minus only a handful of disallowed control characters and the permanently-unassigned code points D800-DFFF and FFFE-FFFF. These characters manifest either directly as bytes according to document's encoding, if the encoding supports them, or they may be written as numeric character references based on the character's Unicode code point, as long as the document's encoding supports the digits and symbols required to write the references (all encodings approved for use on the Internet do). For example, the references Δ Й ק م ๗ あ 叶 葉 냻 (or the same numeric values expressed in hexadecimal, with &#x as the prefix) display on your browser as Δ, Й, ק, م, ๗, あ, 叶, 葉 and 냻 -- if you have the proper fonts, these symbols look like the Greek capital letter "Delta", Cyrillic capital letter "Short I", the Arabic letter "Meem", the Hebrew letter "Qof", Thai numeral 7, Japanese Hiragana "A", simplified Chinese "Leaf", traditional Chinese "Leaf", and a Korean Hangul syllable "Nyrh", respectively.
 == <h2>यूनिकोड फाँट ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br />
 
-[edit]
-Unicode fonts
-Free and retail fonts based on Unicode are common, since first TrueType and now OpenType use Unicode. These font formats map Unicode code points to glyphs.
-
-There are thousands of fonts on the market, but fewer than a dozen fonts attempt to support the majority of Unicode's character repertoire; these fonts are sometimes described as pan-Unicode. Instead, Unicode based fonts typically focus on supporting only basic ASCII and particular scripts or sets of characters or symbols. There are several reasons for this: applications and documents rarely need to render characters from more than one or two writing systems; fonts tend to be resource hogs in computing environments; and operating systems and applications are becoming increasingly intelligent in regard to obtaining glyph information from separate font files as they are needed. Furthermore, it is a monumental task to design a consistent set of rendering instructions for tens of thousands of glyphs; such a venture passes the point of diminishing returns.
-
 == यूनिकोडस मंज़ तबदीली हुन्द तॉरीख ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br />
-[edit]
-Unicode revision history
-1991 Unicode 1.0 
-1993 Unicode 1.1 
-1996 Unicode 2.0 
-1998 Unicode 2.1 
-2000 Unicode 3.0 
-2001 Unicode 3.1 
-2002 Unicode 3.2 
-2003 Unicode 4.0 
-2004 Unicode 4.01 
-[edit]
 
 == न्यब॒रिम लिंक्स ==
 यथ छु वुनि तर्जम॒ कर॒नय.<br />
