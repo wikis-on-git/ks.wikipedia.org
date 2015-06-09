@@ -1,17 +1,67 @@
-{|id="mp-banner" width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;"
-|- 
-|{{اہم صَفہٕ سٮ۪اگت}}
-|}
-<br>
+{| width=100% style="border: 3px solid #bfb1a3; padding: 5px; background-color: #fffaf5"
+ |
+ |-
+ |style="border: 1px solid #bfb1a3; text-align: left; padding:5px; clear: both; background-color: #f2e0ce; font-size:10pt;"|
+[[Image:Kashmir_4.jpg|right|200px]]
+<center><div style="font-size:210%; border:none; margin:0; padding:.1em; color:silver;">'''[[ویکیپیٖڈیا|کٔشِیریس ویکیپیٖڈیس]]'''</div>
+<div style="top:+0.2em;font-size:95%">پٮ۪ٹھ خۄش آئندَ!</div>
+<div style="top:+0.2em;font-size:100%">اَکھ آزاد اِنسيكلؤپِيڈيا ہۄ کٲنٛسِہ تِہ ہٮ۪کُن اٮ۪ڑِٹ۔</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:110%;">
+کٲشُر اِنسيكلؤپِيڈيا منٛز چھِي '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' مَضموٗنن۔</div></center>
+ |-
+ |style="border: 1px solid #A3B1BF; text-align: left; padding:5px; clear: both; background-color: #bfb1a3; font-size:15pt;"|
 {| width="60%" style="border:1px solid black" align=center
-|
-<inputbox>
+|<inputbox>
 type=create
 width=33
 </inputbox>
-|}</center></div>
-
-----
+|}
+{| style="border-bottom:1px solid #ffc9c9; border-left:1px solid #ffc9c9; border-right:1px solid #ffc9c9; border-top:0px solid #ffffff; background-color:#ffffff; width:100%"
+|-
+|[[Special:Allpages/Category:ا|ا]]
+|[[Special:Allpages/Category:ب|ب]]
+|[[Special:Allpages/Category:پ|پ]]
+|[[Special:Allpages/Category:ت|ت]]
+|[[Special:Allpages/Category:ٹ|ٹ]]
+|[[Special:Allpages/Category:ث|ث]]
+|[[Special:Allpages/Category:ج|ج]]
+|[[Special:Allpages/Category:چ|چ]]
+|[[Special:Allpages/Category:ح|ح]]
+|[[Special:Allpages/Category:خ|خ]]
+|[[Special:Allpages/Category:د|د]]
+|[[Special:Allpages/Category:ڈ|ڈ]]
+|[[Special:Allpages/Category:ذ|ذ]]
+|[[Special:Allpages/Category:ر|ر]]
+|[[Special:Allpages/Category:ڑ|ڑ]]
+|[[Special:Allpages/Category:ز|ز]]
+|[[Special:Allpages/Category:ژ|ژ]]
+|[[Special:Allpages/Category:س|س]]
+|[[Special:Allpages/Category:ش|ش]]
+|[[Special:Allpages/Category:ص|ص]]
+|[[Special:Allpages/Category:ض|ض]]
+|[[Special:Allpages/Category:ط|ط]]
+|[[Special:Allpages/Category:ظ|ظ]]
+|[[Special:Allpages/Category:ع|ع]]
+|[[Special:Allpages/Category:غ|غ]]
+|[[Special:Allpages/Category:ف|ف]]
+|[[Special:Allpages/Category:ق|ق]]
+|[[Special:Allpages/Category:ک|ک]]
+|[[Special:Allpages/Category:گ|گ]]
+|[[Special:Allpages/Category:ل|ل]]
+|[[Special:Allpages/Category:م|م]]
+|[[Special:Allpages/Category:ن|ن]]
+|[[Special:Allpages/Category:و|و]]
+|[[Special:Allpages/Category:ھ|ھ]]
+|[[Special:Allpages/Category:ء|ء]]
+|[[Special:Allpages/Category:ی|ی]]
+|[[Special:Allpages/Category:ے|ے]]
+|}
+<!--- 
+|-
+ |style="border: 1px solid #A3B1BF; text-align: center; padding:5px; clear: both; background-color: #bfb1a3; font-size:10pt;"|''<small>[http://kas-encyclopedia.wikia.com/wiki/%E0%A4%86%E0%A4%B9%E0%A4%AE_%E0%A4%B8%E0%A4%AB%E0%A4%BC%E0%A4%BE देवनागरी कॉशिरिस इनसाइक्लोपीडिया] ''--->
+ |-
+ | style="color:#000000;" |
+= اِنسيكلؤپِيڈيا =
 {|
 |- 
 | width="50%" valign="top" | 
@@ -29,9 +79,9 @@ width=33
 <!---------------------------------------------->
 |-
 <!---------------------------------------------->
-| [[Image:Nuvola_apps_bookcase.png|40px|center]]
+| [[Image:HSReligion.svg‎|40px|center]]
 | style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''مَزہَب'''<br/>
-[[مَزہَب]]
+[[مَزہَب]] - [[اِسلام]] - [[عِیسائیت]] - [[ہِندوُ مَت]] - [[بُدھ مَت]] - [[بہائیت‎]]
 <!---------------------------------------------->
 |- 
 <!---------------------------------------------->
@@ -61,9 +111,9 @@ width=33
 <!---------------------------------------------->
 |- 
 <!---------------------------------------------->
-| [[Image:Kashmir.jpg|border|40px|center]]
+| [[Image:Ледник по дороге из Кашмира в Ладакх.jpg|border|40px|center]]
 | style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''کٔشِیر'''<br/>
-[[کٔشِیر]] - [[کٲشُر زَبان]] 
+[[کٔشِیر]] - [[کٲشُر زَبان]] - [[کٲشُر لُکھ]] - [[کٲشُر اَدَب]] - [[کٲشُر کھٮ۪ن]] 
 <!---------------------------------------------->
 |- 
 <!---------------------------------------------->
@@ -74,25 +124,3 @@ width=33
 <div align="right"><small>[{{SERVER}}{{localurl:Main Page|action=edit}} تَرتیٖب دِیُن]</small></div>
 |}
 ----
-
-[[als:Main_Page]]
-[[ay:Jaqha tuqi qillqa Nayra]]
-[[ce:]]
-[[el:Κύρια Σελίδα]]
-[[eo:Ĉefpaĝo]]
-[[es:Portada]]
-[[eu:Azal]]
-[[fa:صفحهٔ اصلی]]
-[[fr:Accueil]]
-[[hi:मुख्य_पृष्ठ]]
-[[ko:대문]]
-[[nds:Hoofdsiet]]
-[[no:Hovedside]]
-[[pt:Página principal]]
-[[ru:Базовая_статья]]
-[[sq:Faqja Kryesore]]
-[[sv:Huvudsida]]
-[[ug:]]
-[[uk:Головна стаття]]
-[[yi:ערשטע זײַט]]
-[[zh:首页]]
