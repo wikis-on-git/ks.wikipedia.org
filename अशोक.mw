@@ -6,42 +6,5 @@
 
 '''सॅम्राट अशोके आज़म''' छु अख पॅरान बारतीय राज़ॅह। अशोक छु हिंद मंज़ [[मौर्य साम्राज़|मौर्य साम्राज़ुन]] हुकम्रॉन।
 
-==साम्राज़िन हुक्म्रॉनी==
-<timeline>
-ImageSize = width:800 height:auto barincrement:12
-PlotArea = top:100 bottom:100 right:200 left:100
-AlignBars = early
-
-DateFormat = yyyy
-Period   = from:-330 till:-180
-TimeAxis  = orientation:horizontal
-ScaleMajor = unit:year increment:10 start:-330
-
-Colors   =
- id:canvas   value:rgb(0.97,0.97,0.97)
- id:PA  value:red
- id:GP  value:red
-
-Backgroundcolors = canvas:canvas
-
-BarData =
- barset:Rulers
-
-PlotData=
- width:5 align:left fontsize:S shift:(5,-4) anchor:till
- barset:Rulers
-
- from: -321 till: -298 color:PA text:"[[चन्द्रगुप्त मौर्य]] ([[320 BC]] &ndash; [[298 BC]])"
- from: -298 till: -272 color:PA text:"[[बिंदुसार]] ([[298 BC]] &ndash; [[272 BC]])"
- from: -268 till: -232 color:PA text:"[[अशोक]] ([[268 BC]] &ndash; [[232 BC]])"
- from: -223 till: -224 color:PA text:"[[दशरथ मौर्य]] ([[232 BC]] &ndash; [[224 BC]])"
- from: -224 till: -215 color:PA text:"[[सम्प्रति]] ([[224 BC]] &ndash; [[215 BC]])"
- from: -215 till: -202 color:PA text:"[[शालिसुक]] ([[215 BC]] &ndash; [[202BC]])"
- from: -202 till: -195 color:PA text:"[[देववर्मन्]] ([[202 BC]] &ndash; [[195 BC]])"
- from: -195 till: -187 color:PA text:"[[शतधन्वन् मौर्य ]] ([[195 BC]] &ndash; [[187 BC]])"
- from: -187 till: -185 color:PA text:"[[बृहद्रथ मौर्य]] ([[187 BC]] &ndash; [[185 BC]])"
- barset:skip
-</timeline>
-
 
 {{नामुकम्मल मज़मून}}
