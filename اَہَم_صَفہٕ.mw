@@ -1,4 +1,4 @@
-{| width=100% style="border: 3px solid #bfb1a3; padding: 5px; background-color: #fffaf5"
+{| style="border: 3px solid #bfb1a3; padding: 5px; background-color: #fffaf5" width="100%"
  |
  |-
  |style="border: 1px solid #bfb1a3; text-align: left; padding:5px; clear: both; background-color: #f2e0ce; font-size:10pt;"|
@@ -179,25 +179,25 @@ width=33
 <div align="right"><small>[{{SERVER}}{{localurl:Main Page|action=edit}} تَرتیٖب دِیُن]</small></div>
 |}
 ----
-<div class="mw-content-ltr" lang="en" dir="ltr">
+<div class="mw-content-ltr" dir="ltr" lang="en">
 <table cellpadding="0" cellspacing="0" border="0">
 <tr valign="top"><th style="background-color: #e2e2ff; border: 2px solid #e2e2ff; border-bottom: none; font-size: larger; padding-top: 0.3em; padding-bottom: 0.3em;" align="center" width="53%">विश्‍वकोश</th>
 <th>&nbsp;</th>
 <th style="background-color: #faf9b2; border: 2px solid #faf9b2; border-bottom: none; padding-top: 0.3em; padding-bottom: 0.3em; font-size: larger;" align="center">समाज</th>
 </tr>
 <tr valign="top"><td style="background-color: #f8f8ff; border: 2px solid #e2e2ff; border-top: none; padding: 0.6em; padding-top: none;">
-==प्रकृति त॒ तत्त्वज्ञान==
+==क़ुदरत त॒ तत्त्वज्ञान==
 [[जीव शास्त्र]] - - [[पृथ्वी शास्त्र]] - [[वनस्पति विज्ञान]] - [[भौतिकी]] - [[वन विज्ञान]] - [[खगोल शास्त्र]]  - [[रसायन शास्त्र]] - [[संगणक शास्त्र]]  - [[भौतिक शास्त्र]] - [[ज्‍योतिष]] - [[पदार्थ विज्ञान]] -  [[गणित]]
 
-==प्रौद्‍योगिकी त॒ विज्ञान==
+==तकनीक त॒ साइंस==
 [[कृषि शास्त्र]] - [[वास्‍तुशास्‍त्र]]  - [[शिक्षा]] - [[अभियांत्रिकी शास्त्र]] - [[विज्ञान इतिहास]] - [[सोफ़्टवेर अभियांत्रिकी शास्त्र]] - [[तकनीकशास्त्र]] 
 
-==समाज शास्त्र त॒ दर्शनशास्‍त्र==
+==समाज त॒ फ़ल्सफ़ॅह==
 [[मनुष्य विज्ञान]] - [[पुरातत्त्व]] - [[अर्थशास्त्र]] - [[भूगोल]]  - [[इतिहास]] - [[मिथकशास्‍त्र]] - [[दर्शनशास्‍त्र]] - [[राजनीति शास्त्र]] - [[मनोविज्ञान]] - [[समाज शास्त्र]] - [[शिक्षा]] -  [[कुटुंब त उपभोक्ता शास्त्र]] - [[सरकार]] - [[कानून]] - [[पुस्तकालय त ज्ञान शास्त्र]] -- [[राजनीति]] - - [[प्रवास]]
 
 
-==धर्म, ललितकला त॒ संस्कृति==
-[[धरम]] - [[नृत्य]] -  [[चलचित्र]] - [[हस्तकला]]  - [[साहित्य]] - [[संगीत]] - [[चित्रकला]] - [[कविता]] - [[रेडियो]] -  [[शिल्पकला]] -  [[नाट्यकला]] - [[फलज्‍योतिष]] 
+==धर्म, कला त॒ आदाब==
+[[दर्म]] - [[नृत्य]] -  [[चलचित्र]] - [[हस्तकला]]  - [[साहित्य]] - [[संगीत]] - [[चित्रकला]] - [[कविता]] - [[रेडियो]] -  [[शिल्पकला]] -  [[नाट्यकला]] - [[फलज्‍योतिष]] 
 
 ==मनोरंजन==
 [[मनोरंजन]] - [[मैदानी खेल]] - [[दूरदर्शन]] - [[पर्यटन]] - [[छुट्टि]] - [[रसोई]] - [[बागवानी]] - [[इंटरनेट]]
@@ -297,4 +297,4 @@ Download Wikipedia: [http://en.wikipedia.org/wiki/Wikipedia:Database download SQ
 </tr>
 </table>
 
-__NOEDITSECTION__
+__NOEDITSECTION__|}
