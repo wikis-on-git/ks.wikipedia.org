@@ -1,0 +1,74 @@
+<div class="mw-content-ltr" lang="en" dir="ltr">
+
+{| id="mp-topbanner" style="width:100%; background: linear-gradient(to bottom, #fff, #e8f2f8); border-bottom: solid 1px #a8d7fc; margin:1.2em 0 6px 0;"
+| class="bgwikilogo" style="background-repeat:no-repeat; background-position:-110px -15px; background-size: 300px 300px; padding: 1.5rem 1rem 1rem;" |
+{| style="width:100%; background:transparent;"
+| style="width:16%; color:#000;" |
+| style="width:28%; color:#000;" |
+{| style="width:260px; border:none; background:transparent;"
+| style="width:286px; text-align:center; white-space:nowrap; color:#000;" |<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">[[विकिपीडिया|विकीपीडियाअस]] प्यठ स्वागत!</div><div style="top:+0.2em; font-size:95%;">अख सारिन॒य विषयन पॆठ मुफ़्त ज्ञानकोष बनाव॒नुक प्रॉजेक्ट.</div><div id="articlecount" style="font-size:85%;">[[خاص:Statistics|{{NUMBEROFARTICLES}}]] लेख तेदाद</div>
+|}
+|-
+| style="width:16%; color:#000;" |
+| valign="top" style="padding:0px 17px 0px 17px;" colspan="2" |<div style="float:left; margin-left:0px; width:100%; font-size:95%; text-align:center; font-weight:bold; border-top:2px solid #C7D0F8;">
+
+</div>
+|}
+|}
+<div style="background-color:#FFFFFF;text-align: center;">
+न​ॊव वरुख <inputbox>
+ type=create
+ width=40
+ bgcolor=#FFFFFF
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=
+ buttonlabel=लेख बनाव॒थ  
+ break=no
+</inputbox></div>
+{| class="mp-right" style="background:#faf5ff;"
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" |
+=== [[فَیِل:Nuvola_filesystems_services.svg|link=|alt=|25x25px]] स्यठा थॊद लेख / Siatha thad lykh ===
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" |<div style="float:right;">[[فَیِل:Wikibar.png|link=|alt=|90x90px]]</div>
+|-
+| style="padding:15px 5px" colspan="2" |<div style="text-align:left;">
+{{Featured article}}
+</div>
+{| class="mp-right" style="background:#faf5ff;"
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" |
+=== [[فَیِل:Nuvola_2.0+_Drawing.svg|link=|alt=|25x25px]]स्यठा थॊद तस्वीर / Siatha thad thasvir ===
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" |<div style="float:right;">[[فَیِل:Wikibar.png|link=|alt=|90x90px]]</div>
+|-
+| style="padding:15px 5px" colspan="2" |<div style="text-align:left;">
+{{Featured picture}}
+</div>
+{| class="mp-right" style="background:#faf5ff;"
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" |
+=== [[فَیِل:Nuvola_apps_bookcase.png|link=|alt=|25x25px]] विश्वकोश / Vishwakosh ===
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" |<div style="float:right;">[[فَیِل:Wikibar.png|link=|alt=|90x90px]]</div>
+|-
+| style="padding:15px 5px" colspan="2" |<div style="text-align:left;">
+{{Main page directory/ks-deva}}
+</div>
+{| class="mp-right" style="background:#faf5ff;"
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" |
+=== [[فَیِل:Wikimedia-logo.svg|link=|alt=|25x25px]]बेयिन विकिमीडिया प्रोजेक्ट ===
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" |<div style="float:right;">[[فَیِل:Wikibar.png|link=|alt=|90x90px]]</div>
+|-
+| style="padding:15px 5px" colspan="2" |<div style="text-align:left;">
+{{Wikipedia's sister projects}}
+</div>
+{| class="mp-right" style="background:#faf5ff;"
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" |
+=== [[فَیِل:Globe_of_letters.svg|link=|alt=|25x25px]]बेयिन ज़बानन मंज़ ===
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" |<div style="float:right;">[[فَیِل:Wikibar.png|link=|alt=|90x90px]]</div>
+|-
+| style="padding:15px 5px" colspan="2" |<div style="text-align:left;">
+{{बेयिन ज़बानन}}
+</div>
+|}
+|}
+|}
+|}
+|}
+__NOTOC__
