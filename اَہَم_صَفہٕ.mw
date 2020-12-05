@@ -10,14 +10,14 @@
 |}
 
 <div style="background-color:#FFFFFF;text-align: center;">
-صفحہ تخلیق کریں <inputbox>
+صَفہٕ بَناوُن <inputbox>
  type=create
  width=40
  bgcolor=#FFFFFF
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=
- buttonlabel=نیا مضمون تخلیق کریں  
+ buttonlabel=نۆو مضمون بَناوُن  
  break=no
 </inputbox></div>
 
