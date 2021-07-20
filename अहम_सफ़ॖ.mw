@@ -6,7 +6,7 @@
 | style="width:16%; color:#000;" |
 | style="width:28%; color:#000;" |
 {| style="width:260px; border:none; background:transparent;"
-| style="width:286px; text-align:center; white-space:nowrap; color:#000;" |<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">[[विकिपीडिया|विकीपीडियाअस]] पॆठ स्वागत!</div><div style="top:+0.2em; font-size:95%;">अख सारिन॒य विषयन पॆठ मुफ़्त ज्ञानकोष बनाव॒नुक प्रॉजेक्ट.  • [[Wikipedia:FAQ|FAQ]]</div><div id="articlecount" style="font-size:85%;">[[خاص:Statistics|४७१]] लेख तेदाद</div>
+| style="width:286px; text-align:center; white-space:nowrap; color:#000;" |<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">[[विकिपीडिया|विकीपीडियाअस]] पॆठ स्वागत!</div><div style="top:+0.2em; font-size:95%;">अख सारिन॒य विषयन पॆठ मुफ़्त ज्ञानकोष बनाव॒नुक प्रॉजेक्ट.  • [[Wikipedia:FAQ|FAQ]]</div><div id="articlecount" style="font-size:85%;">[[خاص:Statistics|{{NUMBEROFARTICLES}}]] लेख तेदाद</div>
 |}
 |-
 | style="width:16%; color:#000;" |
@@ -16,7 +16,7 @@
 |}
 |}
 <div style="background-color:#FFFFFF;text-align: center;">
-नॊव वरुख <inputbox>
+सफ़ॖ बनावुन <inputbox>
  type=create
  width=40
  bgcolor=#FFFFFF
