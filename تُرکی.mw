@@ -4,11 +4,90 @@
 {{Infobox country
 | conventional_long_name = Republic of Turkey
 | common_name = Turkey
-| native_name = 
+| native_name = {{native name|tr|Türkiye Cumhuriyeti}}
 | image_flag = Flag of Turkey.svg
+| image_coat = <!-- The Turkish Constitution doesn't specify an official coat of arms -->
 | symbol_type = 
 | national_motto = <!-- The Turkish Constitution doesn't specify an official motto -->
-| national_anthem = {{small|"The Independence March"}} {{center|[[File:Istiklâl Marsi instrumetal.ogg]]}}
+| national_anthem = <br/>{{native phrase|tr|[[İstiklal Marşı]]|nolink=yes}}<br />{{small|"The Independence March"}} {{center|[[File:Istiklâl Marsi instrumetal.ogg]]}} <!-- Please do not replace this with the vocal version. In order to keep continuity with other Wikipedia pages on modern countries, the instrumental version should be used. -->
+| image_map = Turkey (orthographic projection).svg
+| capital = [[Ankara]]
+| coordinates = {{Coord|39|N|35|E|type:city|display=title,inline}}
+| largest_city = [[Istanbul]]<br />{{smaller|{{coord|41|1|N|28|57|E|display=inline}}}}
+| official_languages = [[Turkish language|Turkish]]<ref name="TC Constituton Art. 3">{{cite news|title=Türkiye Cumhuriyeti Anayasası|url=https://www.tbmm.gov.tr/develop/owa/tc_anayasasi.maddeler?p3=3|publisher=[[Grand National Assembly of Turkey]]|access-date=1 July 2020|language=Tr|archive-url=https://archive.today/20200701095929/https://www.tbmm.gov.tr/develop/owa/tc_anayasasi.maddeler?p3=3|archive-date=1 July 2020|quote="3. Madde: Devletin Bütünlüğü, Resmi Dili, Bayrağı, Milli Marşı ve Başkenti: Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür. Dili Türkçedir. Bayrağı, şekli kanununda belirtilen, beyaz ay yıldızlı al bayraktır. Milli marşı "İstiklal Marşı" dır. Başkenti Ankara'dır."}}</ref><ref name="Constitutional Court of Turkey - Constitution Art. 3">{{cite news|title=Mevzuat: Anayasa|url=https://www.anayasa.gov.tr/tr/mevzuat/anayasa/|publisher=[[Constitutional Court of Turkey]]|location=Ankara|access-date=1 July 2020|language=Tr|archive-url=https://archive.today/20200701100313/https://www.anayasa.gov.tr/tr/mevzuat/anayasa/|archive-date=1 July 2020}}</ref>
+| languages_type = [[Spoken language]]s<ref name=Ethnologue>[[Ethnologue]]: [https://www.ethnologue.com/country/tr/languages ''Ethnologue Languages of the World – Turkey''], Retrieved 15 October 2017.</ref>
+| languages = {{vunblist
+| predominantly [[Turkish language|Turkish]]
+|{{collapsible list
+ |titlestyle = background:transparent;text-align:left;font-weight:normal;font-size:100%;
+ |title= other languages
+ |[[Kurmanji|Kurdish]]|[[Zaza language|Zaza]]|[[Laz language|Laz]]|[[Kabardian language|Kabardian-Cherkess]]|[[Arabic]]|[[Languages of Turkey|various others]]}}
+}}
+| ethnic_groups = {{unbulleted list
+ | 70–75% [[Turkish people|Turks]]
+ | 19% [[Kurds in Turkey|Kurds]]
+ | 7–12% [[Ethnic groups in Turkey|Others]]
+ }}	
+| demonym = [[Turkish people|{{hlist|Turkish |Turk}}]]
+| government_type = [[Unitary state|Unitary]] [[presidential system|presidential]] [[Constitution of Turkey|constitutional]] [[republic]]
+| leader_title1 = [[President of Turkey|President]]
+| leader_name1 = [[Recep Tayyip Erdoğan]]
+| leader_title2 = [[Vice President of Turkey|Vice President]]
+| leader_name2 = [[Fuat Oktay]]
+| leader_title3 = [[Speaker of the Grand National Assembly|Assembly Speaker]]
+| leader_name3 = [[Mustafa Şentop]]
+| legislature = {{nowrap|[[Grand National Assembly of Turkey|Grand National Assembly]]}}
+| sovereignty_type = [[History of Turkey|Establishment]]
+| established_event1 = [[Turkish War of Independence|War of Independence]]
+| established_date1 = 19 May 1919
+| established_event2 = [[Grand National Assembly of Turkey]]
+| established_date2 = 23 April 1920
+| established_event3 = {{nowrap|[[Treaty of Lausanne]]}}
+| established_date3 = 24 July 1923
+| established_event4 = {{nowrap|[[History of Turkey|Declaration of Republic]]}}
+| established_date4 = 29 October 1923
+| established_event5 = [[Constitution of Turkey|Current constitution]]
+| established_date5 = 9 November 1982<ref>{{Cite web|url=https://www.anayasa.gov.tr/en/legislation/turkish-constiution/|title=Turkish Constiution &#124; Anayasa Mahkemesi|website=www.anayasa.gov.tr}}</ref>
+| area_km2 = 783,356 <!--http://www.auswaertiges-amt.de/DE/Aussenpolitik/Laender/Laenderinfos/01-Nodes_Uebersichtsseiten/Tuerkei_node.html -->
+| area_rank = 36th
+| area_sq_mi = 302535 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 2.03 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=11 October 2020|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate = {{IncreaseNeutral}} 83,614,362<ref name="Turkey-population">{{cite web|url=https://data.tuik.gov.tr/Bulten/Index?p=Adrese-Dayal%C4%B1-N%C3%BCfus-Kay%C4%B1t-Sistemi-Sonu%C3%A7lar%C4%B1-2020-37210&dil=1|publisher=[[Turkish Statistical Institute]]|title=The Results of Address Based Population Registration System, 2020|date=31 December 2020|access-date=5 February 2021}}</ref>
+| population_estimate_rank = 19th
+| population_estimate_year = 31 December 2020
+| population_density_km2 = 109<ref name="Turkey-population"/>
+| population_density_sq_mi = 262
+| population_density_rank = 107th
+| GDP_PPP = {{increase}} $2.749&nbsp;trillion<ref name=IMF-WEO>{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2021/April/weo-report?c=186,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2010&ey=2021&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=World Economic Outlook Database, April 2021 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=8 April 2021}}</ref>
+| GDP_PPP_year = 2021
+| GDP_PPP_rank = 11th
+| GDP_PPP_per_capita = {{increase}} $32,278<ref name=IMF-WEO />
+| GDP_PPP_per_capita_rank = 45th
+| GDP_nominal = {{increase}} $794.530&nbsp;billion<ref name=IMF-WEO />
+| GDP_nominal_year = 2021
+| GDP_nominal_rank = 20th
+| GDP_nominal_per_capita = {{increase}} $9,327<ref name=IMF-WEO />
+| GDP_nominal_per_capita_rank= 67th
+| Gini = 43.0 <!--number only-->
+| Gini_year = 2017
+| Gini_change = increase <!--increase/decrease/steady-->
+| Gini_ref = <ref>{{cite web |title=Gini coefficient of equivalised disposable income - EU-SILC survey |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |website=ec.europa.eu/eurostat |publisher=Eurostat |access-date=13 February 2020}}</ref>
+| Gini_rank = 56th
+| HDI = 0.820 <!--number only-->
+| HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase<!--increase/decrease/steady-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|title=2020 Human Development Report|year=2020|access-date=15 December 2020|publisher=United Nations Development Programme }}</ref>
+| HDI_rank = 54th
+| currency = [[Turkish lira]] [[Turkish lira sign|(₺)]]
+| currency_code = TRY
+| time_zone = [[Time in Turkey|TRT]]
+| utc_offset = +3
+| date_format = dd.mm.yyyy ([[Common Era|CE]])
+| drives_on = right
+| calling_code = [[Telephone numbers in Turkey|+90]]
+| cctld = [[.tr]]
+| official_website = 
+| today = 
 }}
 یہِ مُلُک چھُ اکھ علاقٲے طاقتھ تہٕ 1952ء پؠٹھٕ NATO ہُک اکھ بٲژ مُلُک.
 
