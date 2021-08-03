@@ -13,12 +13,12 @@
 | pushpin_map_alt                 = 
 | pushpin_map_caption             = Location in [[Jammu and Kashmir (union territory)|Jammu and Kashmir]], India
 | coordinates                     = {{coord|33.93|75.1|display=inline,title}}
-| subdivision_type                = Country
+| subdivision_type                = مُلک
 | subdivision_name                = {{flag|India|name=ہِندوستان}}
 | subdivision_type1               = [[قومی علاقہٕ]]
 | subdivision_name1               = [[جۆم تہٕ کٔشیٖر]]
-| subdivision_type2               = [[List of districts of Jammu and Kashmir|District]]
-| subdivision_name2               = [[Pulwama district|Pulwama]]
+| subdivision_type2               = [[ضِلہٕ]]
+| subdivision_name2               = [[پلوۄم]]
 | established_title               = <!-- Established -->
 | established_date                = 
 | founder                         = 
@@ -37,20 +37,18 @@
 | population_                     = 
 | population_density_km2          = auto
 | population_demonym              = 
-| demographics_type1              = Languages
-| demographics1_title1            = Official
-| demographics1_info1             = [[Kashmiri language|Kashmiri]], [[Urdu]], [[Hindi]], [[Dogri language|Dogri]], [[English language|English]]<ref name="OfficialLang">{{cite web |url=http://egazette.nic.in/WriteReadData/2020/222037.pdf |title=The Jammu and Kashmir Official Languages Act, 2020 |publisher=The Gazette of India|date=27 September 2020 |access-date=27 September 2020}}</ref><ref>{{cite news | title=Parliament passes JK Official Languages Bill, 2020 | work=Rising Kashmir | date=23 September 2020| url=http://risingkashmir.com/news/parliament-passes-jk-official-languages-bill-2020 | access-date=30 May 2021}}</ref>
-| demographics1_title2            = Spoken
-| demographics1_info2            = [[Gujari language|Gujari]]
+| demographics_type1              = زَبان
+| demographics1_title1            = سَرکٲری
+| demographics1_info1             =[[کٲشِر زَبان|کٲشُر]], [[اُردُو زَبان|اُردٗو]], [[ہِندی زَبان|ہِندی]], [[ڈوگری زَبان|ڈوگری]], [[انٛگریٖزی زَبان|انٛگریٖزی]] <ref name="OfficialLang">{{cite web |url=http://egazette.nic.in/WriteReadData/2020/222037.pdf |title=The Jammu and Kashmir Official Languages Act, 2020 |publisher=The Gazette of India|date=27 September 2020 |access-date=27 September 2020}}</ref><ref>{{cite news | title=Parliament passes JK Official Languages Bill, 2020 | work=Rising Kashmir | date=23 September 2020| url=http://risingkashmir.com/news/parliament-passes-jk-official-languages-bill-2020 | access-date=30 May 2021}}</ref>
 | timezone1                       = [[Indian Standard Time|IST]]
 | utc_offset1                     = +5:30
 | postal_code_type                = [[Postal Index Number|PIN]]
 | postal_code                     = 192123
-| area_code_type                  = Telephone code
-| area_code                       = 01933
+| area_code_type                  = ٹیٚلیفون کوڈ
+| area_code                       = ۰۱۹۳۳
 | blank2_name_sec1                = [[Literacy]]
 | blank2_info_sec1                = 98.1%
-| website                         = {{url|www.pulwama.gov.in}}
+| website                         = www.pulwama.gov.in
 | footnotes                       = 
 | official_name                   = 
 }}
