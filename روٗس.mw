@@ -70,26 +70,7 @@
 | population_density_km2      = 8.4
 | population_density_sq_mi    = 21.5
 | population_density_rank     = 181st
-| GDP_PPP                     = {{increase}} $4.328 trillion<ref name="IMFWEORU">{{cite web|url=https://www.imf.org/en/Publications/WEO/weo-database/2021/April/weo-report?c=922,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2019&ey=2026&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=World Economic Outlook Database, April 2021|publisher=[[International Monetary Fund]]|website=IMF.org|access-date=17 April 2020}}</ref>
-| GDP_PPP_year                = 2021
-| GDP_PPP_rank                = 6th
-| GDP_PPP_per_capita          = {{increase}} $29,485<ref name="IMFWEORU"/>
-| GDP_PPP_per_capita_rank     = 55th
-| GDP_nominal                 = {{increase}} $1.710 trillion<ref name="IMFWEORU"/>
-| GDP_nominal_year            = 2021
-| GDP_nominal_rank            = 11th
-| GDP_nominal_per_capita      = {{increase}} $11,654<ref name="IMFWEORU"/>
-| GDP_nominal_per_capita_rank = 64th
-| Gini                        = 37.5 <!--number only-->
-| Gini_year                   = 2018
-| Gini_change                 = increase <!--increase/decrease/steady-->
-| Gini_ref                    = <ref name="WBgini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=RU |title=GINI index (World Bank estimate) – Russian Federation |publisher=World Bank |access-date=22 March 2020}}</ref>
-| Gini_rank                   = 98th
-| HDI                         = 0.824<!--number only-->
-| HDI_year                    = 2019<!-- Please use the year to which the data refers, not the publication year-->
-| HDI_change                  = increase <!--increase/decrease/steady-->
-| HDI_ref                     = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|title=Human Development Report 2020|language=en|publisher=[[United Nations Development Programme]]|date=15 December 2020|access-date=15 December 2020}}</ref>
-| HDI_rank                    = 52nd
+
 | currency                    = [[Russian ruble]] ([[Ruble sign|₽]])
 | currency_code               = RUB
 | utc_offset                  = +2 to +12
