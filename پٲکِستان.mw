@@ -2,62 +2,124 @@
 {{P1|پٲکِستان}}
 {{P2|[[पाकिस्तान]]}}
 {{2}} 
+{{Infobox country
+| conventional_long_name = اِسلٲمی جۆمہوٗرِیَتھِ پٲکِستان
+| common_name                 = Pakistan
+| native_name                 = {{ubl|{{native name|ur|{{Nastaliq|اِسلامی جمہوریہ پاكِستان}}|italics=off}}|{{transl|ur|ALA-LC|''اِسلامی جُمہوٗرِیَہ پاکِستان''}}<ref>{{cite book |last=Minahan |first=James |title=The Complete Guide to National Symbols and Emblems [2 volumes] |publisher=ABC-CLIO |year=2009 |page=141 |isbn=978-0-313-34497-8}}</ref>}}
+| image_flag                  = Flag of Pakistan.svg
+| image_coat                  = State emblem of Pakistan.svg
+| symbol_type                 = State emblem
+| national_motto              = {{transl|ur|''[[Īmān, Ittihād, Nazam]]''}}<br />{{native name|ur|{{Nastaliq|ایمان، اتحاد، نظم}}|italics=off|nolink=on}}<br />"Faith, Unity, Discipline"{{lower|0.2em|<ref>{{cite web |title=The State Emblem |url=http://www.infopak.gov.pk/Eemblem.aspx |archive-url=https://web.archive.org/web/20070701023430/http://www.infopak.gov.pk/Eemblem.aspx |archive-date=1 July 2007 |publisher=Ministry of Information and Broadcasting, [[Government of Pakistan]]. |access-date=18 December 2013}}</ref><!--end lower:-->}}
+| national_anthem             = {{transl|ur|ALA-LC|''[[Qaumi Taranah|Qaumī Tarānah]]''}}<br />{{lang|ur|{{Nastaliq|قَومی ترانہ}}}}<br />{{center|"The National Anthem"<br />[[File:Pakistan anthem - United States Navy Band.ogg]]}}
+| image_map                   = Pakistan (orthographic projection).svg
+| map_width                   = 220px
+| map_caption                 = Land controlled by Pakistan shown in dark green; land claimed but not controlled shown in light green
+| capital                     = [[Islamabad]]
+| coordinates                 = {{coord|33|41|30|N|73|03|00|E|type:city_region:PK}}
+| largest_city                = [[Karachi]]<br />{{coord|24|51|36|N|67|00|36|E|type:city_region:PK}}
+| official_languages          = {{hlist |[[Urdu]]|[[English language|English]]}}
+| languages_type              = Regional languages
+| languages                   = [[Punjabi language|Punjabi]] (39%) • [[Pashto]] (18%) • [[Sindhi language|Sindhi]] (15%) • [[Saraiki language|Saraiki]] (12%) • [[Balochi language|Balochi]] (3%) • [[Hindko]] (2%) •  [[Pahari-Pothwari|Pothwari]] (1%) • [[Brahui language|Brahui]] (1%)  • [[Kashmiri language|Kashmiri]] (0.17%)<br /><br /> [[Balti language|Balti]] • [[Burushaski]] • [[Dameli language|Dameli]] • [[Domaaki language|Domaaki]] • [[Gawar-Bati language|Gawar-Bati]] • [[Kalasha-mun|Kalasha]] • [[Khowar language|Khowar]] • [[Kohistani language|Kohistani]] • [[Kutchi language|Kutchi]] • [[Memoni language|Memoni]] • [[Shina language|Shina]] • [[Wakhi language|Wakhi]] • [[Yidgha language|Yidgha]]
+| ethnic_groups               = {{ublist |item_style=white-space:nowrap;
+  | 44.7% [[Punjabis]]
+  | 15.4% [[Pashtuns]]
+  | 14.1% [[Sindhis]]
+  | 8.4% [[Saraiki people|Saraikis]]
+  | 7.6% [[Muhajir (Urdu-speaking people)|Muhajirs]]
+  | 3.6% [[Baloch people|Balochs]]
+  | 6.3% [[Ethnic groups in Pakistan|Others]]
+      }}
+| ethnic_groups_year          = 2020<ref name="cia">{{Cite web|url=https://www.cia.gov/the-world-factbook/countries/pakistan/|title=Airports - The World Factbook|publisher=Central Intelligence Agency|access-date=29 May 2021}}</ref>
+| religion_year               = 2017<ref name=2017Census>{{cite web|title=SALIENT FEATURES OF FINAL RESULTS CENSUS-2017|url=https://www.pbs.gov.pk/sites/default/files//population_census/sailent_feature_%20census_2017.pdf|access-date=20 May 2021}}</ref>
+| religion                    = {{ublist |item_style=white-space:nowrap;
+  | 96.47% [[Islam in Pakistan|Islam]] ([[State religion|official]])<ref name="Article_2" />
+  | 2.14% [[Hinduism in Pakistan|Hinduism]] <!-- 1.73% Hindu (Jati) 0.41% Hindu (scheduled castes) --> 
+  | 1.27% [[Christianity in Pakistan|Christianity]]
+  | 0.9% [[Ahmadiyya in Pakistan|Ahmadiyya]]
+  | 0.02% [[Religion in Pakistan|Others]]
+ }}
+| demonym                     = Pakistani
+| government_type             = [[Federalism|Federal]] [[Parliamentary system|parliamentary]] [[constitutional republic]]
+| leader_title1               = [[President of Pakistan|President]]
+| leader_name1                = [[Arif Alvi]]
+| leader_title2               = [[Prime Minister of Pakistan|Prime Minister]]
+| leader_name2                = [[Imran Khan]]
+| leader_title3               = [[Chairman of the Senate of Pakistan|Chairman of the Senate]]
+| leader_name3                = [[Sadiq Sanjrani]]
+| leader_title4               = [[Speaker of the National Assembly of Pakistan|Speaker of the National Assembly]]
+| leader_name4                = [[Asad Qaiser]]
+| leader_title5               = [[Chief Justice of Pakistan|Chief Justice]]
+| leader_name5                = [[Gulzar Ahmed]]
+| legislature                 = [[Parliament of Pakistan|Parliament]]
+| upper_house                 = [[Senate of Pakistan|Senate]]
+| lower_house                 = [[National Assembly of Pakistan|National Assembly]]
+| sovereignty_type            = [[Pakistan Movement|Independence]]
+| sovereignty_note            = from the [[United Kingdom]]
+| established_event1          = [[Dominion of Pakistan|Dominion]]
+| established_date1           = 14 August 1947
+| established_event2          = [[Islamic Republic]]
+| established_date2           = 23 March 1956
+| established_event3          = [[East Pakistan|Last polity]] [[Bangladesh Liberation War|withdrawn]]
+| established_date3           = 12 January 1972
+| established_event4          = [[Constitution of Pakistan|Current constitution]]
+| established_date4           = 14 August 1973
+| established_event5          = 
+| established_date5           = 
+| established_event6          = 
+| established_date6           = 
+| area_km2                    = 881,913
+| area_footnote               = {{efn|"Includes data for Pakistani territories of Kashmir; [[Azad Kashmir]] ({{convert|13297|km2|sqmi|disp=or|abbr=on}}) and [[Gilgit–Baltistan]] ({{convert|72520|km2|sqmi|disp=or|abbr=on}}).<ref>{{cite web |url=http://www.geohive.com/cntry/pakistan.aspx |title=Pakistan statistics |publisher=Geohive |access-date=20 April 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130406012611/http://www.geohive.com/cntry/pakistan.aspx |archive-date=6 April 2013}}</ref> Excluding these territories would produce an area figure of {{convert|796,095|km2|sqmi|abbr=on}}."}}<ref>{{cite web |url=http://www.worldatlas.com/as/pk/where-is-pakistan.html |title=Where is Pakistan?|website=worldatlas.com}}</ref>
+| area_rank                   = 33rd
+| area_sq_mi                  = 307,374
+| percent_water               = 2.86
+| population_density_km2      = 244.4
+| population_density_sq_mi = 633
+| population_density_rank     = 56th
+| population_estimate         = {{increaseNeutral}} 226,992,332<ref>{{Cite web|url=https://worldpopulationreview.com/countries/pakistan-population|title = Pakistan Population 2021 (Live)}}</ref>
+| population_census           = {{increaseNeutral}} 207.8 million
+| population_estimate_year    = 2021
+| population_estimate_rank    = 5th
+| population_census_year      = 2017
+| population_census_rank      = 
+| GDP_PPP                     = {{increase}} {{nowrap|$1.110 trillion<ref name="imf2">{{cite web |title=World Economic Outlook Database, October 2020 |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=564,&s=NGDP_RPCH,NGDPD,PPPGDP,NGDPDPC,PPPPC,PPPEX,PCPI,&sy=2018&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |website=IMF.org |publisher=[[International Monetary Fund]] |access-date=17 December 2020}}</ref>}}
+| GDP_PPP_year                = 2021
+| GDP_PPP_rank                = 26th
+| GDP_PPP_per_capita          = {{increase}} $5,839<ref name="imf2" />
+| GDP_PPP_per_capita_rank     = 139th
+| GDP_nominal                 = {{increase}} {{nowrap|$296 billion<ref name="imf2" />}}
+| GDP_nominal_year            = 2021
+| GDP_nominal_rank            = 43rd
+| GDP_nominal_per_capita      = {{increase}} $1,543<ref name="imf2" />
+| GDP_nominal_per_capita_rank = 159th
+| Gini_year = 2018
+| Gini_change = decrease<!--increase/decrease/steady-->
+| Gini = 31.6 <!--number only-->
+| Gini_ref                    =<ref name="wb-gini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |access-date=12 August 2021}}</ref>
+| HDI                         = 0.557 <!--number only-->
+| HDI_year                    = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change                  = increase<!--increase/decrease/steady-->
+| HDI_ref                     = <ref>{{cite web|url=http://hdr.undp.org/sites/default/files/hdr_2020_overview_english.pdf|title=Human Development Report 2020|publisher=[[United Nations Development Programme]]|date=2 December 2020|access-date=18 December 2020}}</ref>
+| HDI_rank                    = 152nd
+| currency                    = [[Pakistani rupee]] (₨)
+| currency_code               = PKR
+| time_zone                   = [[Pakistan Standard Time|PKT]]
+| utc_offset                  = +05:00
+| utc_offset_DST              = 
+| DST_note                    = ''[[Daylight saving time|DST]] is not observed''
+| time_zone_DST               = 
+| date_format                 = {{ubl
+  | {{nowrap|{{abbr|dd|day}}-{{abbr|mm|month}}-{{abbr|yyyy|year}}}}{{efn|See [[Date and time notation in Pakistan]].}}
+}}
+| electricity                 = [[Mains electricity by country|230 V–50 Hz]]
+| drives_on                   = left<ref>{{cite news |last=Loureiro |first=Miguel |title=Driving—the good, the bad and the ugly |url=http://www.dailytimes.com.pk/default.asp?page=story_28-7-2005_pg3_5 |archive-url=https://web.archive.org/web/20120110085150/http://www.dailytimes.com.pk/default.asp?page=story_28-7-2005_pg3_5 |archive-date=10 January 2012 |work=Daily Times |location=Pakistan |date=28 July 2005 |access-date=6 February 2014}}</ref>
+| calling_code                = [[Telephone numbers in Pakistan|+92]]
+| cctld                       = {{unbulleted list |[[.pk]] |[[.pk|پاکستان.]]}}
+| official_website            = {{URL|http://www.pakistan.gov.pk/}}
+}}
+'''اِسلٲمی جۆمہوٗرِیَتھِ پٲکِستان''' چھُ جۆنوٗبی [[ایشیا|ایشیاہَس]] مَنٛز اَکھ [[مُلُک]]۔ پاکستانک وزیراعظم چھہ جناب [[عمران خان]]۔ آبٲدی مُطٲبِق یہِ چھُ دُنؠ یاہَس مَنٛز [[آبٲدی مُطٲبِق مُلکَن ہُنٛد فِہرِست|پٟنٛژیُٛم‎]] تہٕ رۄقبہٕ مُطٲبِق [[رۄقبہٕ مُطٲبِق مُلکَن ہُنٛد فِہرِست|تیٚیہِ ترٕٛہیُٛم‎]]۔ یَتھ چھِ مَشِرقَس مَنٛز [[ہِندوستان]]َس سٟتؠ سَرحَد، مَغرَبَس مَنٛز [[اَفغانِستان|اَفغانِستانَس]] سٟتؠ، شُمالءمَشِرقَس مَنٛز [[چیٖن|چیٖنَس]] سٟتؠ تہٕ جۆنوٗبءمَغرَبَس مَنٛز [[ایٖران|ایٖرانَس]] سٟتؠ۔
 
-<table border="1" cellpadding="2" cellspacing="0" align="left" >
-<caption>
- '''اسلامی جۆمہوٗرِیہَ پاکستان'''<br> اسلامی جمہوریہ پاکستان/ Islamic Republic of Pakistan
-</caption>
-<tr>
-<td style="background:#efefef;" align="center" colspan=2>
-<table border="0" cellpadding="2" cellspacing="0">
-<tr>
-<td align="center" width="140px">[[فَیِل:Flag of Pakistan.svg|130x130px]]</td>
-<td align="center" width="140px" height="115px">[[فَیِل:State emblem of Pakistan.svg|114x114px]]</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td align="center" colspan=2 style="border-bottom:3px solid gray;">
-<font size="-1">
-''قومی جُملہٕ: "پاکستان زندہ باد" ''</font>
-</td>
-</tr>
-<tr><td>قومی [[جانوَر]]</td><td>[[مارخور]]</td></tr>
-<tr><td>قومی [[جاناوار]]</td><td>[[کَکُو]]</td></tr>
-<tr><td>قومی [[پوش]]</td><td>[[یاسمین]]</td></tr>
-<tr>
-<td>
-[[سَرکٲری زَبٲنؠ]] </td>
-<td>[[اُردُو زَبان|اردو]]، [[انٛگریٖزی زَبان|اَنٛگریٖزی]]</td></tr>
-<tr>
-<td>[[رازٕ دٲنؠ]] </td>
-<td>[[اِسلام آبادٖ|اسلام آباد]]</td>
-</tr>
-<tr>
-<td>[[صَدٕر]] </td>
-<td>[[عارف علوی]]</td>
-</tr>
-<tr>
-<td>[[ؤزیٖرِ اعظَم]]</td>
-<td>[[عمران خان]]
-</td>
-</tr>
-<tr>
-<td>[[آزٲدی دۄہ]] </td>
-<td>نِش بریتیص رآج
-<br />14 اَگست, 1947</td>
-</tr>
-<tr><td>[[پونٛسہٕ]] </td><td>[[پاکستانی رۄپَے]] (PKR)</td></tr>
-<tr><td>[[Time zone]] </td><td>[[Coordinated Universal Time|UTC]] +5.00</td></tr>
-<tr><td>[[قومی بٲتھ]] </td><td>[[پاک سر زمین شاد باد]]</td></tr>
-<tr><td>قومی گؠوُن </td><td>[[پاکستان زندہ باد]]</td></tr>
-<tr><td>[[Top-level domain|Internet TLD]]</td><td>.pk</td></tr>
-<tr><td>[[List of country calling codes|Calling Code]]</td><td>92</td></tr>
-</table>
-'''اِسلامی جمہوٗرِیت پاکِستان''' چھُ اَکھ [[مُلک]]۔ یہ مُلک چھ [[جٔنوٗبی آسیہ]] مَنٛز۔ پاکستانک وزیراعظم چھہ جناب [[عمران خان]]۔
-[[File:Pakistan_(orthographic_projection).svg|thumb|left]]
-
+==حَوالہٕ==
+{{حَوالہٕ}}
 {{نامکمل مضمون}}
 
 [[زٲژ:مُلُک]]
