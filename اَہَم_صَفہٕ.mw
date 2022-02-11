@@ -16,7 +16,6 @@
 </div>
 </div>
 </div>
-
 {{#if:{{Main Page banner}}|
 <div id="mp-banner" class="MainPageBG mp-bordered">
 {{Main Page banner}}
@@ -40,8 +39,6 @@
 </div>
 </div>
 </div>|}}<!-- END CONDITIONAL SHOW -->
-
-
 <div id="mp-lower" class="MainPageBG mp-bordered">
 <div id="mp-bottom">
 <h2 id="mp-tfp-h2" class="mp-h2">مُنتَخٕب تَصویٖر</h2>
