@@ -5,21 +5,21 @@
 {| class="wikitable sortable plainrowheaders" style="text-align: center; font-size: 90%;"
 |+
 !  scope="col" width="10%" |رِیاسَتھ
-! scope="col" width="10%" |[[ISO 3166-2:IN]]
-! scope="col" width="10%" |[[گادِ نَمبَر پلیٹ|<br />code]]
-! scope="col" width="1%" |[[Zonal Council|Zone]]
-! scope="col" width="1%" |راز دٲنؠ
+! scope="col" width="10%" |آے ایس او کوڈ
+! scope="col" width="10%" |کوڈ
+! scope="col" width="1%" |عَلاقہٕ
+! scope="col" width="1%" |[[راز دٲنؠ]]
 ! scope="col" width="1%" | بوٚڑ شَہَر
-! scope="col" width="6%" data-sort-type="date" |Statehood
-! scope="col" width="1%" |آبٲدی<br />(census 2011)
-! scope="col" width="1%" |[[List of states and union territories of India by area|Area]]<br />(km<sup>2</sup>)
-! scope="col" width="8%" |Official<br />languages<ref name="langoff50">{{cite web|url=http://nclm.nic.in/shared/linkimages/NCLM50thReport.pdf |title=Report of the Commissioner for linguistic minorities: 50th report (July 2012 to June 2013) |publisher=Commissioner for Linguistic Minorities, Ministry of Minority Affairs, Government of India |access-date=14 January 2015 |url-status=dead |archive-url=https://web.archive.org/web/20160708012438/http://nclm.nic.in/shared/linkimages/NCLM50thReport.pdf |archive-date= 8 July 2016 }}</ref>
+! scope="col" width="6%" data-sort-type="date" |بَننُک دۄہ
+! scope="col" width="1%" |آبٲدی<br />(2011)
+! scope="col" width="1%" |رۄقبہٕ<br />(کِلومیٖٹَر مُرَبَع)
+! scope="col" width="8%" |دَفتَری زَبانہٕ<ref name="langoff50">{{cite web|url=http://nclm.nic.in/shared/linkimages/NCLM50thReport.pdf |title=Report of the Commissioner for linguistic minorities: 50th report (July 2012 to June 2013) |publisher=Commissioner for Linguistic Minorities, Ministry of Minority Affairs, Government of India |access-date=14 January 2015 |url-status=dead |archive-url=https://web.archive.org/web/20160708012438/http://nclm.nic.in/shared/linkimages/NCLM50thReport.pdf |archive-date= 8 July 2016 }}</ref>
 ! scope="col" width="8%" |Additional official<br />languages<ref name="langoff50" />
 |-
 ! scope="row" |[[آنٛدھرا پرَدیش]]
 | IN-AP
 | AP
-| [[Southern Zonal Council|Southern]]
+| جۆنوٗبی
 | [[Visakhapatnam]] <small>(Administrative)</small><ref name="3capitals" /><br />[[Amaravati]] <small>(Legislative)</small><ref name="3capitals" /><br />[[Kurnool]] <small>(Judicial)</small><ref name="3capitals">{{Cite web|date=1 August 2020|title=Andhra Governor gives nod to CM Jagan Mohan Reddy's three-capital plan|url=https://www.livemint.com/news/india/andhra-governor-gives-nod-to-cm-jagan-mohan-reddy-s-three-capital-plan-11596271636431.html|access-date=2 August 2020|website=Livemint|language=en}}</ref>
 | [[Visakhapatnam]]
 | 1 November 1956
@@ -31,7 +31,7 @@
 ! scope="row" |[[ارُناچَل پرَدیش]]
 | IN-AR
 | AR
-| [[North Eastern Council|North-Eastern]]
+| شُمٲلؠ-مَشرِقی
 | colspan="2" |[[Itanagar]]
 | 20 February 1987
 | align="right" |1,383,727
@@ -42,7 +42,7 @@
 ! scope="row" |[[آسام]]
 | IN-AS
 | AS
-| North-Eastern
+| شُمٲلؠ-مَشرِقی
 | [[Dispur]]
 | [[Guwahati]]
 | 26 January 1950
@@ -54,7 +54,7 @@
 ! scope="row" |[[بِہار]]
 | IN-BR
 | BR
-| [[Eastern Zonal Council|Eastern]]
+| مَشرِقی
 | colspan="2" |[[Patna]]
 | 26 January 1950
 | align="right" |104,099,452
@@ -65,7 +65,7 @@
 ! scope="row" |[[چھتیس گڑھ]]
 | IN-CT<!-- The ISO 3166-2:IN code is "IN-CT" even though the vehicle registration code is "CG". See https://www.iso.org/obp/ui/#iso:code:3166:IN -->
 | CG
-| [[Central Zonal Council|Central]]
+| مَرکٔزی
 | [[Raipur]]{{efn|[[Naya Raipur]] is planned to replace [[Raipur]] as the capital city of [[Chhattisgarh]].}} (Legislative & Administrative), [[Bilaspur, Chhattisgarh|Bilaspur]] (Judicial)
 | [[Raipur]]
 | 1 November 2000
@@ -77,7 +77,7 @@
 ! scope="row" |[[گوا]]
 | IN-GA
 | GA
-| [[Western Zonal Council|Western]]
+| مَغرَبی
 | [[Panaji]]
 | [[Vasco da Gama, Goa|Vasco da Gama]]
 | 30 May 1987
@@ -89,7 +89,7 @@
 ! scope="row" |[[گُجرات]]
 | IN-GJ
 | GJ
-| Western
+| مَغرَبی
 | [[Gandhinagar]]
 | [[Ahmedabad]]
 | 1 May 1960
@@ -101,7 +101,7 @@
 ! scope="row" |[[ہریانہ]]
 | IN-HR
 | HR
-| [[Northern Zonal Council|Northern]]
+| شُمٲلؠ
 | [[Chandigarh]]
 | [[Faridabad]]
 | 1 November 1966
@@ -113,7 +113,7 @@
 ! scope="row" |[[ہماچل پردیش]]
 | IN-HP
 | HP
-| Northern
+| شُمٲلؠ
 | [[Shimla]] <small>(Summer)</small><br />[[Dharamshala]] <small>(Winter)</small><ref>{{Cite web|last=Mar 2|first=TIMESOFINDIA COM /|last2=2017|last3=Ist|first3=18:37|title=Dharamsala: Himachal Pradesh gets its second capital in Dharamsala {{!}} India News - Times of India|url=https://timesofindia.indiatimes.com/india/himachal-pradesh-gets-its-second-capital-in-dharamsala/articleshow/57432184.cms|access-date=2021-07-26|website=The Times of India|language=en}}</ref>
 | [[Shimla]]
 | 25 January 1971
@@ -125,7 +125,7 @@
 ! scope="row" |[[Jharkhand]]
 | IN-JH
 | JH
-| Eastern
+| مَشرِقی
 | [[Ranchi]]
 | [[Jamshedpur]]
 | 15 November 2000
@@ -137,7 +137,7 @@
 ! scope="row" |[[Karnataka]]
 | IN-KA
 | KA
-| Southern
+| جۆنوٗبی
 | colspan="2" |[[Bangalore|Bengaluru]]
 | 1 November 1956
 | align="right" |61,095,297
@@ -148,7 +148,7 @@
 ! scope="row" |[[Kerala]]
 | IN-KL
 | KL
-| Southern
+| جۆنوٗبی
 | colspan="2" |[[Thiruvananthapuram]]
 | 1 November 1956
 | align="right" |33,406,061
@@ -159,7 +159,7 @@
 ! scope="row" |[[Madhya Pradesh]]
 | IN-MP
 | MP
-| Central
+| مَرکٔزی
 | [[Bhopal]]
 | [[Indore]]
 | 26 January 1950
@@ -171,7 +171,7 @@
 ! scope="row" |[[Maharashtra]]
 | IN-MH
 | MH
-| Western
+| مَغرَبی
 | [[Mumbai]] <small>(Summer)</small><br />[[Nagpur]] <small>(Winter)</small><ref>{{Cite web|title=History {{!}} District Nagpur,Government of Maharashtra {{!}} India|url=https://nagpur.gov.in/history/|access-date=2021-07-26|language=en-US}}</ref><ref>{{cite news |last1=Raghunatha |first1=TN |title=Monsoon session to start in Maha's winter Capital Nagpur from July 4 |url=https://www.dailypioneer.com/nation/monsoon-session--to-start-in-mahas-winter-capital-nagpur-from-july-4.html |access-date=20 April 2021 |work=Pioneer |date=2 June 2018}}</ref>
 | [[Mumbai]]
 | 1 May 1960
@@ -183,7 +183,7 @@
 ! scope="row" |[[Manipur]]
 | IN-MN
 | MN
-| North-Eastern
+| شُمٲلؠ-مَشرِقی
 | colspan="2" |[[Imphal]]
 | 21 January 1972
 | align="right" |2,855,794
@@ -194,7 +194,7 @@
 ! scope="row" |[[Meghalaya]]
 | IN-ML
 | ML
-| North-Eastern
+| شُمٲلؠ-مَشرِقی
 | colspan="2" |[[Shillong]]
 | 21 January 1972
 | align="right" |2,966,889
@@ -205,7 +205,7 @@
 ! scope="row" |[[Mizoram]]
 | IN-MZ
 | MZ
-| North-Eastern
+| شُمٲلؠ-مَشرِقی
 | colspan="2" |[[Aizawl]]
 | 20 February 1987
 | align="right" |1,097,206
@@ -216,7 +216,7 @@
 ! scope="row" |[[Nagaland]]
 | IN-NL
 | NL
-| North-Eastern
+| شُمٲلؠ-مَشرِقی
 | [[Kohima]]
 | [[Dimapur]]
 | 1 December 1963
@@ -228,7 +228,7 @@
 ! scope="row" |[[Odisha]]
 | IN-OR<!-- The ISO 3166-2:IN code is "IN-OR" even though the new vehicle registration code is "OD". See https://www.iso.org/obp/ui/#iso:code:3166:IN -->
 | OD
-| Eastern
+| مَشرِقی
 | colspan="2" |[[Bhubaneswar]]
 | 26 January 1950
 | align="right" |41,974,218
@@ -239,7 +239,7 @@
 ! scope="row" |[[پنجاب (ہِندوستان)|پنجاب]]
 | IN-PB
 | PB
-| Northern
+| شُمٲلؠ
 | [[Chandigarh]]
 | [[Ludhiana]]
 | 1 November 1966
@@ -251,7 +251,7 @@
 ! scope="row" |[[راجَستھان]]
 | IN-RJ
 | RJ
-| Northern
+| شُمٲلؠ
 | colspan="2" |[[Jaipur]]
 | 26 January 1950
 | align="right" |68,548,437
@@ -262,7 +262,7 @@
 ! scope="row" |[[سِکِم]]
 | IN-SK
 | SK
-| North-Eastern
+| شُمٲلؠ-مَشرِقی
 | colspan="2" |[[Gangtok]]
 | 16 May 1975
 | align="right" |610,577
@@ -273,7 +273,7 @@
 ! scope="row" |[[تٲمِل ناڈوٗ]]
 | IN-TN
 | TN
-| Southern
+| جۆنوٗبی
 | colspan="2" |[[Chennai]]
 | 1 November 1956
 | align="right" |72,147,030
@@ -285,7 +285,7 @@
 ! scope="row" |[[Telangana]]
 | IN-TG<!-- The ISO 3166-2:IN code is "IN-TG" even though the vehicle registration code is "TS". See https://www.iso.org/obp/ui/#iso:code:3166:IN -->
 | TS
-| Southern
+| جۆنوٗبی
 | colspan="2" |[[Hyderabad]]{{efn|name=fn1}}
 | 2 June 2014
 | align="right" |35,193,978<ref name="telangana">{{cite web|title=Telangana State Profile|url=http://www.telangana.gov.in/About/State-Profile|publisher=Telangana government portal|access-date=11 June 2014|page=34}}</ref>
@@ -296,7 +296,7 @@
 ! scope="row" |[[ترِٛپورا]]
 | IN-TR
 | TR
-| North-Eastern
+| شُمٲلؠ-مَشرِقی
 | colspan="2" |[[Agartala]]
 | 21 January 1972
 | align="right" |3,673,917
@@ -307,7 +307,7 @@
 ! scope="row" |[[وۄتُر پرَٛدیش]]
 | IN-UP
 | UP
-| Central
+| مَرکٔزی
 | [[Lucknow]]
 | [[Kanpur]]
 | 26 January 1950
@@ -319,7 +319,7 @@
 ! scope="row" |[[وۄتٕراکھَنٛڈ]]
 | IN-UT<!-- The ISO 3166-2:IN code is "IN-UT" even though the vehicle registration code is "UK". See https://www.iso.org/obp/ui/#iso:code:3166:IN -->
 | UK
-| Central
+| مَرکٔزی
 | [[Gairsain]] <small>(Summer)</small><ref>{{Cite web|date=2020-06-08|title=Gairsain is Uttarakhand's summer capital|url=https://indianexpress.com/article/india/gairsain-declared-as-uttarakhands-summer-capital-6448581/|access-date=2021-07-26|website=The Indian Express|language=en}}</ref><br />[[Dehradun]] <small>(Winter)</small><ref>{{Cite web|url=https://timesofindia.indiatimes.com/city/dehradun/gairsain-named-uttarakhands-new-summer-capital/articleshow/74485869.cms/|title=Gairsain Named Uttarakhand's New Summer Capital|website=The Times of India|language=en|access-date=5 March 2020}}</ref>
 | [[Dehradun]]
 | 9 November 2000
@@ -331,7 +331,7 @@
 ! scope="row" |[[مَغرَبی بَنٛگال]]
 | IN-WB
 | WB
-| Eastern
+| مَشرِقی
 | colspan="2" |[[Kolkata]]
 | 26 January 1950
 | align="right" |91,276,115
