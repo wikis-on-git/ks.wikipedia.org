@@ -1,6 +1,6 @@
 {{Orphan|date=اَگست ٢٠٢١}}
 
-[[File:Unicode logo.svg|thumb]]
+[[فَیِل:Unicode logo.svg|thumb]]
 کمپےٗتینگ مانز چھُ '''یونیکوڈ''' اَکھ باینٖل اقوٲمؠ معےار، ےعمےٖک مکسد چھُ پرٹٛ لعچیمتسی زبانی مانز بکار ےیوٖوٖنیس پرتٛ حرفس باپتٛ اَکھ ''کٲڈ'' بناوٖن تٖ تتٛ اَکھ نمبر دےٖن ےتٛ کٲڈ پٲینٹ ونان چی۔
 
 == بیروٗنی کُنٛڑٕن ==
@@ -8,12 +8,12 @@
 * [http://www.unicode.org The Unicode Consortium]
 ** Unicode versions: [http://www.unicode.org/unicode/reports/tr27/ 3.1], [http://www.unicode.org/unicode/reports/tr28/ 3.2], [http://www.unicode.org/versions/Unicode4.0.0 4.0], [http://www.unicode.org/versions/Unicode4.0.1/ 4.0.1], [http://www.unicode.org/versions/Unicode4.1.0/ 4.1]
 ** [http://www.unicode.org/alloc/Pipeline.html new characters], [http://www.unicode.org/pending/pending.html scripts] and [http://www.unicode.org/alloc/investigation.html characters and scripts under investigation]
-** [http://www.unicode.org/charts/ Code Charts] ([[Portable Document Format|PDF]] file)
+** [http://www.unicode.org/charts/ Code Charts] ([[Portable Document Format|PDF]] فَیِل)
 * [http://unicode.coeurlumiere.com/ Table of Unicode characters from 1 to 65535] {{Webarchive|url=https://web.archive.org/web/20071103125951/http://unicode.coeurlumiere.com/ |date=2007-11-03 }}
 * [http://www.macchiato.com/unicode/charts.html UTF-8, UTF-16, UTF-32 Code Charts] {{Webarchive|url=https://web.archive.org/web/20050728023933/http://www.macchiato.com/unicode/charts.html |date=2005-07-28 }} and a [http://www-atm.physics.ox.ac.uk/user/iwi/charmap.html character map] {{Webarchive|url=https://web.archive.org/web/20050727080402/http://www-atm.physics.ox.ac.uk/user/iwi/charmap.html |date=2005-07-27 }} (requires [[JavaScript]])
 * [http://www.eki.ee/letter/ The Letter Database] Uses forms to present groups in list or grid format by [[hexadecimal]].
 * [http://www.decodeunicode.org/ decodeunicode] Unicode-Wiki with 50.000 gifs in three sizes. English/German.
-* [http://www.cl.cam.ac.uk/~mgk25/ucs/examples/ Example text files using Unicode]
+* [http://www.cl.cam.ac.uk/~mgk25/ucs/examples/ Example text فَیِلs using Unicode]
 * [http://www.lazytools.com/unicode-ascii/ Unicode special character map] {{Webarchive|url=https://web.archive.org/web/20050819090113/http://www.lazytools.com/unicode-ascii/ |date=2005-08-19 }} resembles the Windows version. Click a symbol to obtain either the named or numeric code for HTML.
 * [http://www.evertype.com/standards/csur/ ConScript Unicode Registry] a project to standardize part of the Private Use Area for use with [[artificial script]]s and artificial languages. An explanation of how to propose character names in Unicode is available here.
 * [http://www-106.ibm.com/developerworks/unicode/library/u-secret.html The secret life of Unicode] "A peek at Unicode's soft underbelly" Describes problems requiring resolution. Includes links to Unicode resources.
