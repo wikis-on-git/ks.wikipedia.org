@@ -5,7 +5,7 @@
 {{2}}
 {{Infobox website
 | name = وِکیٖپیٖڈیا
-| logo = [[File:Wikipedia-logo-v2-ks.svg|thumb|وِکیٖپیٖڈیا نِشان]]<br />
+| logo = [[فَیِل:Wikipedia-logo-v2-ks.svg|thumb|وِکیٖپیٖڈیا نِشان]]<br />
 | logo_caption = 
 | screenshot = Wikipedia pagina principal.png
 | screenshot_alt = 
@@ -18,7 +18,7 @@
 | authors = {{Unbulleted list|[[جِیمی ویلٕز]]|[[لیری سینگر]]}}
 | url = {{URL|https://www.wikipedia.org/|wikipedia.org}}
 | commercial = نَہ
-| registration = Optional<ref group=note>Registration is required for certain tasks, such as editing protected pages, creating pages on the English Wikipedia, and uploading files.</ref>
+| registration = Optional<ref group=note>Registration is required for certain tasks, such as editing protected pages, creating pages on the English Wikipedia, and uploading فَیِلs.</ref>
 | num_users = [[List of Wikipedias#Statistics totals|>{{formatnum:{{#expr:{{NUMBEROF|ACTIVEUSERS|totalactive.wikipedia}}}}}}]] active editors<ref group=note>To be considered [[Special:ActiveUsers|active]], a user must make at least one edit or other action in a given month.</ref><br>[[list of Wikipedias#Statistics totals|>{{formatnum:{{#expr:{{NUMBEROF|USERS|totalactive.wikipedia}}}}}}]] registered users
 | launch_date = {{Start date and age|mf=yes|p=yes|br=yes|2001|1|15}}
 | current_status = عَملی
