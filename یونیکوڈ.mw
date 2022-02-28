@@ -1,28 +1,2 @@
 [[فَیِل:Unicode logo.svg|thumb]]
 کمپےٗتینگ مانز چھُ '''یونیکوڈ''' اَکھ باینٖل اقوٲمؠ معےار، ےعمےٖک مکسد چھُ پرٹٛ لعچیمتسی زبانی مانز بکار ےیوٖوٖنیس پرتٛ حرفس باپتٛ اَکھ ''کٲڈ'' بناوٖن تٖ تتٛ اَکھ نمبر دےٖن ےتٛ کٲڈ پٲینٹ ونان چی۔
-
-== بیروٗنی کُنٛڑٕن ==
-ےتٛ چھُ وٖنی ترجمٖ کرٖنے۔
-* [http://www.unicode.org The Unicode Consortium]
-** Unicode versions: [http://www.unicode.org/unicode/reports/tr27/ 3.1], [http://www.unicode.org/unicode/reports/tr28/ 3.2], [http://www.unicode.org/versions/Unicode4.0.0 4.0], [http://www.unicode.org/versions/Unicode4.0.1/ 4.0.1], [http://www.unicode.org/versions/Unicode4.1.0/ 4.1]
-** [http://www.unicode.org/alloc/Pipeline.html new characters], [http://www.unicode.org/pending/pending.html scripts] and [http://www.unicode.org/alloc/investigation.html characters and scripts under investigation]
-** [http://www.unicode.org/charts/ Code Charts] ([[Portable Document Format|PDF]] فَیِل)
-* [http://unicode.coeurlumiere.com/ Table of Unicode characters from 1 to 65535] {{Webarchive|url=https://web.archive.org/web/20071103125951/http://unicode.coeurlumiere.com/ |date=2007-11-03 }}
-* [http://www.macchiato.com/unicode/charts.html UTF-8, UTF-16, UTF-32 Code Charts] {{Webarchive|url=https://web.archive.org/web/20050728023933/http://www.macchiato.com/unicode/charts.html |date=2005-07-28 }} and a [http://www-atm.physics.ox.ac.uk/user/iwi/charmap.html character map] {{Webarchive|url=https://web.archive.org/web/20050727080402/http://www-atm.physics.ox.ac.uk/user/iwi/charmap.html |date=2005-07-27 }} (requires [[JavaScript]])
-* [http://www.eki.ee/letter/ The Letter Database] Uses forms to present groups in list or grid format by [[hexadecimal]].
-* [http://www.decodeunicode.org/ decodeunicode] Unicode-Wiki with 50.000 gifs in three sizes. English/German.
-* [http://www.cl.cam.ac.uk/~mgk25/ucs/examples/ Example text فَیِلs using Unicode]
-* [http://www.lazytools.com/unicode-ascii/ Unicode special character map] {{Webarchive|url=https://web.archive.org/web/20050819090113/http://www.lazytools.com/unicode-ascii/ |date=2005-08-19 }} resembles the Windows version. Click a symbol to obtain either the named or numeric code for HTML.
-* [http://www.evertype.com/standards/csur/ ConScript Unicode Registry] a project to standardize part of the Private Use Area for use with [[artificial script]]s and artificial languages. An explanation of how to propose character names in Unicode is available here.
-* [http://www-106.ibm.com/developerworks/unicode/library/u-secret.html The secret life of Unicode] "A peek at Unicode's soft underbelly" Describes problems requiring resolution. Includes links to Unicode resources.
-* Tim Bray's [http://www.tbray.org/ongoing/When/200x/2003/04/26/UTF Characters vs Bytes] explains how the different encodings work.
-* [http://www.alanwood.net/unicode/ Alan Wood's Unicode Resources] Contains lists of word processors with Unicode capability; fonts and characters are grouped by type; characters are presented in lists, not grids.
-* [http://www.hastingsresearch.com/net/04-unicode-limitations.shtml A strong denunciation of Unicode], and a [http://slashdot.org/features/01/06/06/0132203.shtml response to it] (''n.b.'': This article is dated 2001, and much has changed regarding Unicode since that time)
-* [[Software engineering]]:
-** [http://www.icu-project.org/ International Components for Unicode (ICU)] An open source set of libraries that provide robust and full-featured Unicode services for your applications on a wide variety of platforms.
-** [http://www.joelonsoftware.com/articles/Unicode.html The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)] by [[Joel Spolsky]] of JoelonSoftware.com (this is now outdated, but still a reasonable starting point).
-** [http://freedesktop.org/wiki/Software_2futf_2d8 Freedesktop.Org's Project UTF-8] {{Webarchive|url=https://web.archive.org/web/20051211143213/http://www.freedesktop.org/wiki/Software_2futf_2d8 |date=2005-12-11 }}'s purpose is to document and promote proper Unicode support in free and Open Source software.
-** [http://java.sun.com/developer/technicalArticles/Intl/Supplementary/ Supplementary Characters in the Java Platform] from [[Sun Microsystems]]
-* Seeing [http://www.ianalbert.com/misc/unichart.php the entirety of Unicode printed out] as a single large poster gives a good feel for the size of the code.
-* [http://www.unicodeart.com/ ҈ Unicode art - an extended ASCII art form ҈]
-{{نامُکَمَل مَضموٗن}}
