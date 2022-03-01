@@ -28,7 +28,7 @@
 | class="mp-bordered mid-table" |
 | id="mp-right" class="MainPageBG mp-bordered" |
 <h2 id="mp-otd-h2" class="mp-h2">[[فَیِل:Datum02.svg|25px|link=وپ:یَتھ تٲریٖخَس پؠٹھ]] یَتھ تٲریٖخَس پؠٹھ</h2>
-<div id="mp-otd">{{#section-h:وِکیٖپیٖڈیا:یَتھ تٲریٖخَس پؠٹھ/فَرؤری|{{CURRENTDAY}}}}</div>
+<div id="mp-otd">{{#section-h:وِکیٖپیٖڈیا:یَتھ تٲریٖخَس پؠٹھ/{{CURRENTMONTHNAME}}|{{CURRENTDAY}}}}</div>
 |}
 <!-- IF MONDAY OR FRIDAY, SHOW TFL -->{{#switch:{{CURRENTDAYNAME}}|Monday|Friday=
 <div id="mp-middle" class="MainPageBG mp-bordered">
