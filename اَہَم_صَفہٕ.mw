@@ -70,7 +70,7 @@
 <h2 id="mp-sister" class="mp-h2">باقٕے مَنصوٗب</h2>
 <div id="mp-sister-content">{{وِکیٖپیٖڈیا لۄکٕٹ مَنصوٗب ا}}</div>
 <h2 id="mp-lang" class="mp-h2">وِکیٖپیٖڈیا زَبانہٕ</h2>
-<div>{{Wikipedia languages}}</div>
+<div>{{وِکیٖپیٖڈیا زَبانہٕ}}</div>
 <h2 id="mp-lang" class="mp-h2">سَمٲجی رٲبطہٕ</h2>
 <div>{{سَمٲجی رٲبطہٕ}}</div>
 </div><noinclude>{{Main Page interwikis}}{{noexternallanglinks}}{{#if:{{Wikipedia:Main_Page/Tomorrow}}||}}
