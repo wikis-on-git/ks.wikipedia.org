@@ -16,9 +16,9 @@
 </div>
 </div>
 </div>
-{{#if:{{Main Page banner}}|
+{{#if:{{اَہَم صَفہٕ اِطلاع}}|
 <div id="mp-banner" class="MainPageBG mp-bordered">
-{{Main Page banner}}
+{{اَہَم صَفہٕ اِطلاع}}
 </div>
 }}
 {| role="presentation" id="mp-upper"
