@@ -1,4 +1,46 @@
-{{Infobox drug}}
+{{Drugbox
+| IUPAC_name = 3-(acetylamino)-5-[acetyl(methyl)amino]-2,4,6-triiodobenzoic acid
+| image = Metrizoic acid.png
+| alt = Skeletal formula of metrizoic acid
+| width = 180
+| image2 = Metrizoic-acid-3D-spacefill.png
+| alt2 = Space-filling model of the metrizoic acid molecule
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = 
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!--Identifiers-->
+| CAS_number = 1949-45-7
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = CM1N99QR1M
+| ATC_prefix = V08
+| ATC_suffix = AA02
+| PubChem = 2528
+| DrugBank = DB09346
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1736
+| ChemSpiderID = 2433
+| ChEBI = 34847
+| KEGG = C14165
+<!--Chemical data-->
+| C=12 | H=11 | I=3 | N=2 | O=4
+| smiles = CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)N(C)C(=O)C)I
+| StdInChI = 1S/C12H11I3N2O4/c1-4(18)16-10-7(13)6(12(20)21)8(14)11(9(10)15)17(3)5(2)19/h1-3H3,(H,16,18)(H,20,21)
+| StdInChIKey = GGGDNPWHMNJRFN-UHFFFAOYSA-N
+}}
 '''میٹرِزویِک اسیڈ''' چھُ اَکھ [[کیٖمیٲیی مُرَکَب]] یُس [[طِبی اؠکسرے|اؠکسرے]] مَنٛز [[کَنٹراسٹ اَجَنٹ]] طور اۄس اِستِمال گَژھان. یہِ چھُ [[آرٹری]]، [[ویٖن]] یا باقی تان اصل پٲتھؠ وُچھنَس مَنٛز اِستِمال گَژھان. یہِ چھُ عام طور [[اِنجَکشَن]] سٲتی دِینہٕ یِوان.
 
 == حَوالہٕ ==
