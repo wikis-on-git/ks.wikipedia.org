@@ -1,7 +1,55 @@
-[[فَیِل:Zaban urdu mualla.png|thumbnail]]
-
 '''اُردُو'''  چھُ اَكھ اریٖ ذَبان۔ یہِ چھُ ذَبان جٔنوٗبی [[ایشِیا]] مَنٛز مَشہوٗر۔
-
-{{نامُکَمَل مَضموٗن}}
+{{Infobox language
+|name=اردو
+|nativename=اردو (لشکری)
+|pronunciation={{IPA-hns|ˈʊrd̪u|IPA|hi-Urdu.ogg}}
+|image=Urdu example.svg
+|imagesize=120px
+|imagecaption="اردو" [[نستعلیق]] میں لکھا گیا
+|states= [[پاکستان]] اور [[بھارت]]<!-- ، [[جنوبی افریقا]] --><ref>{{cite web | url=http://www.ethnologue.com/language/urd | title=Ethnologue: Languages of the World, Seventeenth edition, Urdu | publisher=Ethnologue | accessdate=5 مارچ 2013 | archiveurl=https://web.archive.org/web/20181224202551/https://www.ethnologue.com/language/urd%20 | archivedate=2018-12-24 | url-status=live}}</ref>
+|region =
+|speakers = 6 کروڑ 5 لاکھ<!-- to nearest 5M. source has 65.6M --> (80% بھارت میں<ref name=e18 />)
+|date     = 2007
+|ref      = ne2007
+|speakers2 = دوسری زبان: 9 کروڑ 4 لاکھ [[پاکستان]] میں (1999)۔<ref name=e18>{{e18|urd}}</ref>
+|familycolor=Indo-European
+|fam2=[[ہند ایرانی زبانیں|ہند ایرانی]]
+|fam3=[[ہند۔آریائی زبانیں|ہند۔آریائی]]
+|fam4=[[مرکزی ہند-آریائی]]
+|fam5=[[مرکزی ہند-آریائی|مغربی ہندی]]
+|fam6=[[کھڑی بولی]]<ref name=ELL2 />
+|fam7=[[اردو-ہندی]]<ref name=ELL2>{{ELL2|ہندوستانی}}</ref>
+|script={{Plainlist|
+* [[فارسی-عربی رسم الخط]] ([[اردو حروف تہجی]])
+* [[اردو بریل|بھارتی اردو بریل]] ([[بھارتی بریل|بھارتی]])
+* [[اردو بریل|پاکستانی اردو بریل]]
+* [[رومن اردو]]}}
+|sign={{Plainlist|
+* [[بھارتی اشارتی نظام]] (ISS)<ref>{{cite web|url=http://punarbhava.in/index.php?option=com_content&view=article&id=1056&Itemid=614|title=Short Term Programmes|author=Gaurav Takkar|work=punarbhava.in|accessdate=29 مارچ 2015|archiveurl=https://web.archive.org/web/20181224202556/http://punarbhava.in/index.php?option=com_content&view=article&id=1056&Itemid=614|archivedate=2018-12-24|url-status=dead}}</ref>
+* [[اشارتی اردو]]<ref>"Indo-Pakistani Sign Language"، ''Encyclopedia of Language and Linguistics''</ref>}}
+|nation={{Plainlist|
+* [[پاکستان]]
+* [[بھارت]]؛ [[بھارت کی ریاستیں اور یونین علاقے|ریاستیں]] اور [[یونین علاقہ]]:
+** [[بہار (بھارت)|بہار]]
+** [[دہلی]] (قومی دارالحکومت علاقہ)
+** [[جموں و کشمیر]]
+** [[اتر پردیش]]
+** [[جھارکھنڈ]]
+** [[مغربی بنگال]] (علاقے جہاں اردو بولنے والے دس فیصد سے زیادہ ہیں)
+** [[تلنگانہ]]}}
+|agency= {{Plainlist|
+* [[ادارہ فروغ قومی زبان]]
+* [[قومی کونسل برائے فروغ اردو زبان]]<ref>{{cite web |url=http://www.urducouncil.nic.in/ |title=National Council for Promotion of Urdu Language |publisher=Urducouncil.nic.in |date= |accessdate=18 دسمبر 2011 |archiveurl=https://web.archive.org/web/20181224202554/http://www.urducouncil.nic.in/%20 |archivedate=2018-12-24 |url-status=live}}</ref>}}
+|iso1=ur
+|iso2=urd
+|iso3=urd
+|glotto=urdu1245
+|glottorefname=Urdu
+|lingua=59-AAF-q | lingua_ref =  (مع ہندی، <br />بشمول 58 تنوع: <code>59-AAF-qaa</code> to <code>59-AAF-qil</code>)
+|map=Urdu official-language areas.png
+|mapcaption={{Legend|#ffc90e|وہ خطے جہاں اردو کو سرکاری یا مقامی زبان کا درجہ حاصل ہے}}
+{{Legend|#fff200|(دیگر)علاقے جہاں صرف ایک علاقائی زبان سرکاری ہے}}
+|notice=
+}}
 
 [[زٲژ:زَبان]]
