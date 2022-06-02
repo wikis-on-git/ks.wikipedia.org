@@ -1,2 +1,19 @@
 [[فَیِل:HTML5 logo and wordmark.svg|thumb|ایچ ٹی ایم ایل 5]]
 '''ایچ ٹی ایم ایل''' یا  '''ہایپر ٹیکسٹ مارکاپ لینگویج''' چھۓ الھ مارکاپ لینگویج یوس فرنٹ عینڈ  نٔموٗنہٕ بَناوُنٟ کھترٕ زروزتھُلگان.
+
+== مارک اپ ==
+
+مِثال Hello, World!" program:
+<syntaxhighlight lang="html5">
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+  </head>
+  <body>
+    <div>
+        <p>Hello world!</p>
+    </div>
+  </body>
+</html>
+</syntaxhighlight>
