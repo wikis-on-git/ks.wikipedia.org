@@ -1,1 +1,22 @@
 وٹس ایپ چھے اکھ میسیج سونچ اپلکشن تہ فون کرنچہ اپلکشن. ام ست چھ بیس فون تہ مسیج کرن، شکل سوزن ویڈیو سوزن. یہ چھ کمپیوٹر پیٹھ تہ بیے جلن. اتھ چھے بیکھ اپلکشن بزنس وٹس ایپ یس بزنس کرنس لگن چھ.
+{{Short description|Messaging and VoIP service by Meta}}
+{{pp-semi-indef|small=yes}}
+{{Use mdy dates|date=December 2020}}
+{{Use American English|date=December 2020}}
+{{Infobox software
+| name = WhatsApp
+| title = WhatsApp
+| logo = WhatsApp.svg
+| logo_size = 150px
+| author = [[Brian Acton]], [[Jan Koum]]
+| developer = [[Meta Platforms]], Will Cathcart  (Head of WhatsApp)<ref>{{cite news |url=https://www.wsj.com/articles/as-whatsapp-tops-2-billion-users-ceo-vows-to-defend-encryption-11581516000 |newspaper=[[Wall Street Journal]] |title=As WhatsApp Tops 2 Billion Users, Its Boss Vows to Defend Encryption |access-date=April 2, 2020 |first=Jeff |last=Horwitz |date=February 12, 2020 |archive-url=https://web.archive.org/web/20200317001048/https://www.wsj.com/articles/as-whatsapp-tops-2-billion-users-ceo-vows-to-defend-encryption-11581516000 |archive-date=March 17, 2020 |url-status=live }}</ref><ref name=WashingtonPostWhatsAppPushback>{{cite news|first1=Will|last1=Cathcart|access-date=October 30, 2019|title=Why WhatsApp is pushing back on NSO Group hacking|url=https://www.washingtonpost.com/opinions/2019/10/29/why-whatsapp-is-pushing-back-nso-group-hacking/|newspaper=[[The Washington Post]]|archive-url=https://web.archive.org/web/20191030001047/https://www.washingtonpost.com/opinions/2019/10/29/why-whatsapp-is-pushing-back-nso-group-hacking/|archive-date=October 30, 2019|url-status=live}}</ref>
+| released = {{Start date and age|2009|01}}
+| ver layout = stacked
+| programming language = [[Erlang (programming language)|Erlang]]<ref name="fastcompany">{{cite web|url=https://www.fastcompany.com/3026758/inside-erlang-the-rare-programming-language-behind-whatsapps-success|title=Inside Erlang, The Rare Programming Language Behind WhatsApp's Success|work=fastcompany.com|author=Ainsley O'Connell|date=February 21, 2014|access-date=December 20, 2017|archive-url=https://web.archive.org/web/20180202171209/https://www.fastcompany.com/3026758/inside-erlang-the-rare-programming-language-behind-whatsapps-success|archive-date=February 2, 2018|url-status=live}}</ref>
+| operating system = [[Android (operating system)|Android]], [[iOS]], [[KaiOS]] (There are also Mac OS, Windows and [[web app]] clients that work only when connected to the mobile app client.)
+| size = 178 [[Megabyte|MB]] (iOS)<ref>{{Cite web|url=https://apps.apple.com/app/id310633997|title=WhatsApp Messenger|website=App Store|language=en-us|access-date=June 9, 2021|archive-url=https://web.archive.org/web/20210430022747/https://apps.apple.com/app/id310633997|archive-date=April 30, 2021|url-status=live}}</ref><br />
+33.85 MB (Android)<ref>{{Cite web|url=https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/|title=WhatsApp Messenger APKs|website=APKMirror|access-date=May 12, 2021|archive-url=https://web.archive.org/web/20210224030818/https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/|archive-date=February 24, 2021|url-status=live}}</ref>
+| genre = [[Instant messaging]], [[VoIP]]
+| language count = 40 (iOS) and 60 (Android)<ref>{{Cite web|title=WhatsApp Help Center - How to change WhatsApp's language|url=https://faq.whatsapp.com/general/account-and-profile/how-to-change-whatsapps-language/?lang=en|access-date=2021-03-26|website=WhatsApp.com|language=en}}</ref>
+| license = [[Proprietary software]] with [[EULA]] <small>([https://www.whatsapp.com/legal/#terms-of-service "European Region"], [https://www.whatsapp.com/legal/business-terms/ others])</small>
+}}
