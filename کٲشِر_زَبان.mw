@@ -303,50 +303,51 @@
 
 ====Vowels====
 {| class="wikitable"
+|
 ! colspan="2" | ناو
 ! باقی زَبان مَنٛز
 ! بَین الاقوٲمی آواز نِشان
 ! Vowel combined with<br/>consonant {{lang|ks|ب}} (''be'')
-! آخری
-! مٕنزِم
 ! گۄڈٕ
-! Isolated vowel glyph 
+! مٕنزِم
+! آخری
 ! Unicode diacritic glyph details
 |-
+| {{lang|ks|{{uninastaliq|اَ}}}}
 | {{Lang|ks|{{uninastaliq|زَبَر}}}}
 | ''zabar''
 | ''a''
 | {{IPA|[a]}}
 | {{lang|ks|{{uninastaliq|بَ}}}}
-| {{lang|ks|{{uninastaliq|–َ}}}}
+| {{lang|ks|{{uninastaliq|اَ}}}}
 | {{lang|ks|{{uninastaliq|–َ }}}}
-| {{lang|ks|{{uninastaliq|اَ}}}}
-| {{lang|ks|{{uninastaliq|اَ}}}}
+| {{lang|ks|{{uninastaliq|–َ}}}}
 | U+064E ARABIC FATHA
 |-
+| {{lang|ks|{{uninastaliq|آ}}}}
 | {{Lang|ks|{{uninastaliq|مَد}}}}
 | ''mad''
 | ''ā''
 | {{IPA|[aː]}}
 | {{lang|ks|{{uninastaliq|با}}}}
+| {{lang|ks|{{uninastaliq|آ}}}}
 | {{lang|ks|{{uninastaliq|ا}}}}
 | {{lang|ks|{{uninastaliq|ا}}}}
-| {{lang|ks|{{uninastaliq|آ}}}}
-| {{lang|ks|{{uninastaliq|آ}}}}
 |(آ) U+0622 ARABIC LETTER ALEF WITH MADDA ABOV (Initial & Isolate)
 (ا) U+0627 ARABIC LETTER ALEF (Medial & Final)
 |-
+| {{lang|ks|{{uninastaliq|أ}}}}
 | {{Lang|ks|{{uninastaliq|اَمالہٕ}}}}
 | ''amālü''
 | ''ạ (ö)''
 | {{IPA|[ə]}}
 | {{lang|ks|{{uninastaliq|بٔ}}}}
-| {{lang|ks|{{uninastaliq|–ٔ}}}}
+| {{lang|ks|{{uninastaliq|أ}}}}
 | {{lang|ks|{{uninastaliq|–ٔ }}}}
-| {{lang|ks|{{uninastaliq|أ}}}}
-| {{lang|ks|{{uninastaliq|أ}}}}
+| {{lang|ks|{{uninastaliq|–ٔ}}}}
 | U+0654 ARABIC HAMZA ABOVE
 |-
+| {{lang|ks|{{uninastaliq|ٲ}}}}
 | {{Lang|ks|{{uninastaliq|اَمالہٕ مَد}}}}
 | ''amālü mad''
 | ''ạ̄ (ȫ)''
@@ -355,140 +356,139 @@
 | {{lang|ks|{{uninastaliq|ٲ}}}}
 | {{lang|ks|{{uninastaliq|ٲ}}}}
 | {{lang|ks|{{uninastaliq|ٲ}}}}
-| {{lang|ks|{{uninastaliq|ٲ}}}}
 | (ٲ) U+0672 ARABIC LETTER ALEF WITH WAVY HAMZA ABOVE
 |-
+| {{lang|ks|{{uninastaliq|اِ}}}}
 | {{Lang|ks|{{uninastaliq|زیر}}}}
 | ''zēr''
 | ''i''
 | {{IPA|[i]}}
 | {{lang|ks|{{uninastaliq|بِ}}}}
+| {{lang|ks|{{uninastaliq|اِ}}}}
 | {{lang|ks|{{uninastaliq|–ِ }}}}
 | {{lang|ks|{{uninastaliq|–ِ }}}}
-| {{lang|ks|{{uninastaliq|اِ}}}}
-| {{lang|ks|{{uninastaliq|اِ}}}}
 | U+0650 ARABIC KASRA
 |-
+| {{lang|ks|{{uninastaliq|ای}}}}
 | {{Lang|ks|{{uninastaliq|کَشہِ زیر}}}}
 | ''kashi zēr''
 | ''ī''
 | {{IPA|[iː]}}
 | {{lang|ks|{{uninastaliq|بی}}}}
-| {{lang|ks|{{uninastaliq|ی}}}}
-| {{lang|ks|{{uninastaliq|ـیٖـ}}}}
 | {{lang|ks|{{uninastaliq|ایٖـ}}}}
-| {{lang|ks|{{uninastaliq|ای}}}}
+| {{lang|ks|{{uninastaliq|ـیٖـ}}}}
+| {{lang|ks|{{uninastaliq|ی}}}}
 |(ای) U+06CC ARABIC LETTER FARSI YEH & U+0656 ARABIC SUBSCRIPT ALEF (Initial & Medial)
 U+06CC ARABIC LETTER FARSI YEH (Final & Isolate)
 |-
+| {{lang|ks|{{uninastaliq|إ}}}}
 | {{Lang|ks|{{uninastaliq|سایہِ}}}}
 | ''sāyi''
 | ''u',ü''
 | {{IPA|[ɨ]}}
 | {{lang|ks|{{uninastaliq|بٕ}}}}
-| {{lang|ks|{{uninastaliq|–ٕ}}}}
+| {{lang|ks|{{uninastaliq|إ}}}}
 | {{lang|ks|{{uninastaliq|–ٕ }}}}
-| {{lang|ks|{{uninastaliq|إ}}}}
-| {{lang|ks|{{uninastaliq|إ}}}}
+| {{lang|ks|{{uninastaliq|–ٕ}}}}
 | U+0655 ARABIC HAMZA BELOW
 |-
+| {{lang|ks|{{uninastaliq|ٳ}}}}
 | {{Lang|ks|{{uninastaliq|سایہِ مَد}}}}
 | ''sāyi mad''
 | ''ū',ǖ''
 | {{IPA|[ɨː]}}
 | {{lang|ks|{{uninastaliq|بٟ}}}}
-| {{lang|ks|{{uninastaliq|–ٟ}}}}
+| {{lang|ks|{{uninastaliq|ٳ}}}}
 | {{lang|ks|{{uninastaliq|–ٟ }}}}
-| {{lang|ks|{{uninastaliq|ٳ}}}}
-| {{lang|ks|{{uninastaliq|ٳ}}}}
+| {{lang|ks|{{uninastaliq|–ٟ}}}}
 | (ٳ) U+0673 ARABIC LETTER ALEF WITH WAVY HAMZA BELOW
 |-
+| {{lang|ks|{{uninastaliq|اُ}}}}
 | {{Lang|ks|{{uninastaliq|پیش}}}}
 | ''pēsh''
 | ''u''
 | {{IPA|[u]}}
 | {{lang|ks|{{uninastaliq|بُ}}}}
-| {{lang|ks|{{uninastaliq|–ُ}}}}
+| {{lang|ks|{{uninastaliq|اُ}}}}
 | {{lang|ks|{{uninastaliq|–ُ }}}}
-| {{lang|ks|{{uninastaliq|اُ}}}}
-| {{lang|ks|{{uninastaliq|اُ}}}}
+| {{lang|ks|{{uninastaliq|–ُ}}}}
 | U+064F ARABIC DAMMA
 |-
+| {{lang|ks|{{uninastaliq|اوٗ}}}}
 | {{Lang|ks|{{uninastaliq|کَشہِ واوُک}}}}
 | ''kashi wāwuk''
 | ''ū''
 | {{IPA|[uː]}}
 | {{lang|ks|{{uninastaliq|بوٗ}}}}
+| {{lang|ks|{{uninastaliq|اوٗ}}}}
 | {{lang|ks|{{uninastaliq|ـوٗ}}}}
 | {{lang|ks|{{uninastaliq|ـوٗ}}}}
-| {{lang|ks|{{uninastaliq|اوٗ}}}}
-| {{lang|ks|{{uninastaliq|اوٗ}}}}
 | (وٗ) U+0648 ARABIC LETTER WAW & U+0657 ARABIC INVERTED DAMMA
 |-
+| {{lang|ks|{{uninastaliq|اۆ}}}}
 | {{Lang|ks|{{uninastaliq|نیٖمہٕ واوُک}}}}
 | ''nīmü wāwuk''
 | ''o''
 | {{IPA|[o]}}
 | {{lang|ks|{{uninastaliq|بۆ}}}}
+| {{lang|ks|{{uninastaliq|اۆ}}}}
 | {{lang|ks|{{uninastaliq|ـۆ}}}}
 | {{lang|ks|{{uninastaliq|ـۆ}}}}
-| {{lang|ks|{{uninastaliq|اۆ}}}}
-| {{lang|ks|{{uninastaliq|اۆ}}}}
 | (ۆ) U+06C6 ARABIC LETTER OE
 |-
+| {{lang|ks|{{uninastaliq|او}}}}
 | {{Lang|ks|{{uninastaliq|واوُک}}}}
 | ''wāwuk''
 | ''ō''
 | {{IPA|[oː]}}
 | {{lang|ks|{{uninastaliq|بو}}}}
+| {{lang|ks|{{uninastaliq|او}}}}
 | {{lang|ks|{{uninastaliq|ـو}}}}
 | {{lang|ks|{{uninastaliq|ـو}}}}
-| {{lang|ks|{{uninastaliq|او}}}}
-| {{lang|ks|{{uninastaliq|او}}}}
 | (و) U+0648 ARABIC LETTER WAW
 |-
+| {{lang|ks|{{uninastaliq|اۄ}}}}
 | {{Lang|ks|{{uninastaliq|لٔٹؠ واوُک}}}}
 | ''lạṭ' wāwuk''
 | ''ọ''
 | {{IPA|[ɔ]}}
 | {{lang|ks|{{uninastaliq|بۄ}}}}
-| {{lang|ks|{{uninastaliq|ـۄ}}}}
+| {{lang|ks|{{uninastaliq|اۄ}}}}
 | {{lang|ks|{{uninastaliq|ۄ}}}}
-| {{lang|ks|{{uninastaliq|اۄ}}}}
-| {{lang|ks|{{uninastaliq|اۄ}}}}
+| {{lang|ks|{{uninastaliq|ـۄ}}}}
 | (ۄ) U+06C4 ARABIC LETTER WAW WITH RING
 |-
+| {{lang|ks|{{uninastaliq|اۄا}}}}
 | {{Lang|ks|{{uninastaliq|لٔٹؠ واوُک مَد}}}}
 | ''lạṭ' wāwuk mad''
 | ''ọ̄''
 | {{IPA|[ɔː]}}
 | {{lang|ks|{{uninastaliq|بۄا}}}}
-| {{lang|ks|{{uninastaliq|ـۄا}}}}
+| {{lang|ks|{{uninastaliq|اۄا}}}}
 | {{lang|ks|{{uninastaliq|ۄا}}}}
-| {{lang|ks|{{uninastaliq|اۄا}}}}
-| {{lang|ks|{{uninastaliq|اۄا}}}}
+| {{lang|ks|{{uninastaliq|ـۄا}}}}
 | (ۄ + ا) U+06C4 ARABIC LETTER WAW WITH RING & U+0627 ARABIC LETTER ALEF
 |-
+| {{lang|ks|اےٚ}}
 | {{Lang|ks|{{uninastaliq|نیٖمہٕ یایُک}}}}
 | ''nīmü yāyuk''
 | ''e''
 | {{IPA|[e]}}
 | {{lang|ks|بـٚے}}
-| {{lang|ks|ـٚے}}
-| {{lang|ks|ـێـ}}
 | {{lang|ks|ێـ}}
-| {{lang|ks|اےٚ}}
+| {{lang|ks|ـێـ}}
+| {{lang|ks|ـٚے}}
 | (	ٚ) U+065A ARABIC VOWEL SIGN SMALL V ABOVE combined with (ے) U+06D2 ARABIC LETTER YEH BARREE
 |-
+| {{lang|ks|{{uninastaliq|اے}}}}
 | {{Lang|ks|{{uninastaliq|یایُک}}}}
 | ''yāyuk''
 | ''ē''
 | {{IPA|[eː]}}
 | {{lang|ks|{{uninastaliq|بے}}}}
-| {{lang|ks|{{uninastaliq|ے}}}}
-| {{lang|ks|{{uninastaliq|ـیـ}}}}
 | {{lang|ks|{{uninastaliq|یـ}}}}
-| {{lang|ks|{{uninastaliq|اے}}}}
+| {{lang|ks|{{uninastaliq|ـیـ}}}}
+| {{lang|ks|{{uninastaliq|ے}}}}
 | (ی) U+06CC ARABIC LETTER FARSI YEH
 |}
 
